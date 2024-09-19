@@ -1,0 +1,55 @@
+{
+  "statistics_by_year": [
+    {
+      "Year": 2021,
+      "Team": "pittsburgh-steelers",
+      "punting_gamesPlayed": "2",
+      "punting_punts": "7",
+      "punting_grossAvgPuntYards": "52.1",
+      "punting_longPunt": "63",
+      "punting_puntYards": "365",
+      "punting_touchbacks": "1",
+      "punting_touchbackPct": "14.29",
+      "punting_puntsInside20": "1",
+      "punting_puntsInside20Pct": "14.29",
+      "punting_puntReturns": "5",
+      "punting_puntReturnYards": "47",
+      "punting_avgPuntReturnYards": "9.4",
+      "punting_netAvgPuntYards": "42.6"
+    },
+    {
+      "Year": 2022,
+      "Team": "denver-broncos",
+      "punting_gamesPlayed": "17",
+      "punting_punts": "96",
+      "punting_grossAvgPuntYards": "46.6",
+      "punting_longPunt": "59",
+      "punting_puntYards": "4,470",
+      "punting_touchbacks": "6",
+      "punting_touchbackPct": "6.25",
+      "punting_puntsInside20": "30",
+      "punting_puntsInside20Pct": "31.25",
+      "punting_puntReturns": "44",
+      "punting_puntReturnYards": "362",
+      "punting_avgPuntReturnYards": "8.2",
+      "punting_netAvgPuntYards": "41.5"
+    },
+    {
+      "Year": 2024,
+      "Team": "pittsburgh-steelers",
+      "punting_gamesPlayed": "1",
+      "punting_punts": "8",
+      "punting_grossAvgPuntYards": "53.0",
+      "punting_longPunt": "58",
+      "punting_puntYards": "424",
+      "punting_touchbacks": "3",
+      "punting_touchbackPct": "37.50",
+      "punting_puntsInside20": "2",
+      "punting_puntsInside20Pct": "25.00",
+      "punting_puntReturns": "3",
+      "punting_puntReturnYards": "20",
+      "punting_avgPuntReturnYards": "6.7",
+      "punting_netAvgPuntYards": "43.0"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "statistics_by_year": [
+    {
+      "Year": 2024,
+      "Team": "jacksonville-jaguars",
+      "receiving_gamesPlayed": "2",
+      "receiving_receptions": "6",
+      "receiving_receivingTargets": "8",
+      "receiving_receivingYards": "141",
+      "receiving_yardsPerReception": "23.5",
+      "receiving_receivingTouchdowns": "1",
+      "receiving_longReception": "66",
+      "receiving_receivingFirstDowns": "5",
+      "receiving_receivingFumbles": "0",
+      "receiving_receivingFumblesLost": "0",
+      "passing_gamesPlayed": "2",
+      "passing_completions": "0",
+      "passing_passingAttempts": "0",
+      "passing_completionPct": "0.0",
+      "passing_passingYards": "0",
+      "passing_yardsPerPassAttempt": "0.0",
+      "passing_passingTouchdowns": "0",
+      "passing_interceptions": "0",
+      "passing_longPassing": "0",
+      "passing_sacks": "0",
+      "passing_QBRating": "39.6",
+      "passing_adjQBR": "-",
+      "scoring_gamesPlayed": "2",
+      "scoring_passingTouchdowns": "0",
+      "scoring_rushingTouchdowns": "0",
+      "scoring_receivingTouchdowns": "1",
+      "scoring_returnTouchdowns": "0",
+      "scoring_totalTouchdowns": "1",
+      "scoring_totalTwoPointConvs": "0",
+      "scoring_kickExtraPoints": "0",
+      "scoring_fieldGoals": "0",
+      "scoring_totalPoints": "6"
+    }
+  ]
+}

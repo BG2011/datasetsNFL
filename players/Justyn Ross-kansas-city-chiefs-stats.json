@@ -1,0 +1,30 @@
+{
+  "statistics_by_year": [
+    {
+      "Year": 2023,
+      "Team": "kansas-city-chiefs",
+      "receiving_gamesPlayed": "10",
+      "receiving_receptions": "6",
+      "receiving_receivingTargets": "11",
+      "receiving_receivingYards": "53",
+      "receiving_yardsPerReception": "8.8",
+      "receiving_receivingTouchdowns": "0",
+      "receiving_longReception": "20",
+      "receiving_receivingFirstDowns": "2",
+      "receiving_receivingFumbles": "0",
+      "receiving_receivingFumblesLost": "0",
+      "passing_gamesPlayed": "10",
+      "passing_completions": "0",
+      "passing_passingAttempts": "0",
+      "passing_completionPct": "0.0",
+      "passing_passingYards": "0",
+      "passing_yardsPerPassAttempt": "0.0",
+      "passing_passingTouchdowns": "0",
+      "passing_interceptions": "0",
+      "passing_longPassing": "0",
+      "passing_sacks": "0",
+      "passing_QBRating": "39.6",
+      "passing_adjQBR": "-"
+    }
+  ]
+}

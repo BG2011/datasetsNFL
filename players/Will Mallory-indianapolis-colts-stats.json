@@ -1,0 +1,30 @@
+{
+  "statistics_by_year": [
+    {
+      "Year": 2023,
+      "Team": "indianapolis-colts",
+      "receiving_gamesPlayed": "12",
+      "receiving_receptions": "18",
+      "receiving_receivingTargets": "26",
+      "receiving_receivingYards": "207",
+      "receiving_yardsPerReception": "11.5",
+      "receiving_receivingTouchdowns": "0",
+      "receiving_longReception": "43",
+      "receiving_receivingFirstDowns": "11",
+      "receiving_receivingFumbles": "1",
+      "receiving_receivingFumblesLost": "0",
+      "passing_gamesPlayed": "12",
+      "passing_completions": "0",
+      "passing_passingAttempts": "0",
+      "passing_completionPct": "0.0",
+      "passing_passingYards": "0",
+      "passing_yardsPerPassAttempt": "0.0",
+      "passing_passingTouchdowns": "0",
+      "passing_interceptions": "0",
+      "passing_longPassing": "0",
+      "passing_sacks": "0",
+      "passing_QBRating": "39.6",
+      "passing_adjQBR": "-"
+    }
+  ]
+}

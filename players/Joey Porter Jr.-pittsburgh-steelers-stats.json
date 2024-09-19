@@ -1,0 +1,46 @@
+{
+  "statistics_by_year": [
+    {
+      "Year": 2023,
+      "Team": "pittsburgh-steelers",
+      "defensive_gamesPlayed": "17",
+      "defensive_totalTackles": "43",
+      "defensive_soloTackles": "32",
+      "defensive_assistTackles": "11",
+      "defensive_sacks": "0",
+      "defensive_fumblesForced": "0",
+      "defensive_fumblesRecovered": "0",
+      "defensive_fumblesRecoveredYards": "0",
+      "defensive_interceptions": "1",
+      "defensive_interceptionYards": "0",
+      "defensive_avgInterceptionYards": "0.0",
+      "defensive_interceptionTouchdowns": "0",
+      "defensive_longInterception": "0",
+      "defensive_passesDefended": "10",
+      "defensive_stuffs": "1",
+      "defensive_stuffYards": "5",
+      "defensive_kicksBlocked": "0"
+    },
+    {
+      "Year": 2024,
+      "Team": "pittsburgh-steelers",
+      "defensive_gamesPlayed": "2",
+      "defensive_totalTackles": "5",
+      "defensive_soloTackles": "3",
+      "defensive_assistTackles": "2",
+      "defensive_sacks": "0",
+      "defensive_fumblesForced": "0",
+      "defensive_fumblesRecovered": "0",
+      "defensive_fumblesRecoveredYards": "0",
+      "defensive_interceptions": "0",
+      "defensive_interceptionYards": "0",
+      "defensive_avgInterceptionYards": "0.0",
+      "defensive_interceptionTouchdowns": "0",
+      "defensive_longInterception": "0",
+      "defensive_passesDefended": "1",
+      "defensive_stuffs": "0",
+      "defensive_stuffYards": "0",
+      "defensive_kicksBlocked": "0"
+    }
+  ]
+}

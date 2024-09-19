@@ -1,0 +1,38 @@
+{
+  "statistics_by_year": [
+    {
+      "Year": 2023,
+      "Team": "green-bay-packers",
+      "punting_gamesPlayed": "17",
+      "punting_punts": "57",
+      "punting_grossAvgPuntYards": "46.2",
+      "punting_longPunt": "68",
+      "punting_puntYards": "2,634",
+      "punting_touchbacks": "5",
+      "punting_touchbackPct": "8.77",
+      "punting_puntsInside20": "18",
+      "punting_puntsInside20Pct": "31.58",
+      "punting_puntReturns": "23",
+      "punting_puntReturnYards": "270",
+      "punting_avgPuntReturnYards": "11.7",
+      "punting_netAvgPuntYards": "39.7"
+    },
+    {
+      "Year": 2024,
+      "Team": "green-bay-packers",
+      "punting_gamesPlayed": "2",
+      "punting_punts": "5",
+      "punting_grossAvgPuntYards": "42.6",
+      "punting_longPunt": "59",
+      "punting_puntYards": "213",
+      "punting_touchbacks": "0",
+      "punting_touchbackPct": "0.00",
+      "punting_puntsInside20": "4",
+      "punting_puntsInside20Pct": "80.00",
+      "punting_puntReturns": "0",
+      "punting_puntReturnYards": "0",
+      "punting_avgPuntReturnYards": "0.0",
+      "punting_netAvgPuntYards": "42.6"
+    }
+  ]
+}

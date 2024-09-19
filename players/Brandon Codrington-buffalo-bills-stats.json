@@ -1,0 +1,19 @@
+{
+  "statistics_by_year": [
+    {
+      "Year": 2024,
+      "Team": "buffalo-bills",
+      "returning_gamesPlayed": "2",
+      "returning_puntReturns": "1",
+      "returning_puntReturnYards": "7",
+      "returning_puntReturnTouchdowns": "0",
+      "returning_puntReturnFairCatches": "1",
+      "returning_longPuntReturn": "7",
+      "returning_kickReturns": "1",
+      "returning_kickReturnYards": "53",
+      "returning_kickReturnTouchdowns": "0",
+      "returning_kickReturnFairCatches": "0",
+      "returning_longKickReturn": "53"
+    }
+  ]
+}

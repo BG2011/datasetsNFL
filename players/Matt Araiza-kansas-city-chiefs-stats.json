@@ -1,0 +1,21 @@
+{
+  "statistics_by_year": [
+    {
+      "Year": 2024,
+      "Team": "kansas-city-chiefs",
+      "punting_gamesPlayed": "2",
+      "punting_punts": "5",
+      "punting_grossAvgPuntYards": "51.2",
+      "punting_longPunt": "63",
+      "punting_puntYards": "256",
+      "punting_touchbacks": "2",
+      "punting_touchbackPct": "40.00",
+      "punting_puntsInside20": "3",
+      "punting_puntsInside20Pct": "60.00",
+      "punting_puntReturns": "2",
+      "punting_puntReturnYards": "12",
+      "punting_avgPuntReturnYards": "6.0",
+      "punting_netAvgPuntYards": "40.8"
+    }
+  ]
+}

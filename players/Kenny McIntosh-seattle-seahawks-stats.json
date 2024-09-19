@@ -1,0 +1,30 @@
+{
+  "statistics_by_year": [
+    {
+      "Year": 2023,
+      "Team": "seattle-seahawks",
+      "rushing_gamesPlayed": "3",
+      "rushing_rushingAttempts": "-",
+      "rushing_rushingYards": "-",
+      "rushing_yardsPerRushAttempt": "-",
+      "rushing_rushingTouchdowns": "-",
+      "rushing_longRushing": "-",
+      "rushing_rushingFirstDowns": "-",
+      "rushing_rushingFumbles": "-",
+      "rushing_rushingFumblesLost": "-"
+    },
+    {
+      "Year": 2024,
+      "Team": "seattle-seahawks",
+      "rushing_gamesPlayed": "2",
+      "rushing_rushingAttempts": "-",
+      "rushing_rushingYards": "-",
+      "rushing_yardsPerRushAttempt": "-",
+      "rushing_rushingTouchdowns": "-",
+      "rushing_longRushing": "-",
+      "rushing_rushingFirstDowns": "-",
+      "rushing_rushingFumbles": "-",
+      "rushing_rushingFumblesLost": "-"
+    }
+  ]
+}

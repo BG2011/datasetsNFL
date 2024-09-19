@@ -1,0 +1,29 @@
+{
+  "statistics_by_year": [
+    {
+      "Year": 2019,
+      "Team": "carolina-panthers",
+      "passing_gamesPlayed": "2",
+      "passing_completions": "28",
+      "passing_passingAttempts": "52",
+      "passing_completionPct": "53.8",
+      "passing_passingYards": "228",
+      "passing_yardsPerPassAttempt": "4.4",
+      "passing_passingTouchdowns": "0",
+      "passing_interceptions": "4",
+      "passing_longPassing": "28",
+      "passing_sacks": "6",
+      "passing_QBRating": "33.2",
+      "passing_adjQBR": "2.8",
+      "rushing_gamesPlayed": "2",
+      "rushing_rushingAttempts": "7",
+      "rushing_rushingYards": "22",
+      "rushing_yardsPerRushAttempt": "3.1",
+      "rushing_rushingTouchdowns": "0",
+      "rushing_longRushing": "11",
+      "rushing_rushingFirstDowns": "2",
+      "rushing_rushingFumbles": "1",
+      "rushing_rushingFumblesLost": "1"
+    }
+  ]
+}

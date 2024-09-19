@@ -1,0 +1,39 @@
+{
+  "statistics_by_year": [
+    {
+      "Year": 2023,
+      "Team": "las-vegas-raiders",
+      "passing_gamesPlayed": "11",
+      "passing_completions": "213",
+      "passing_passingAttempts": "343",
+      "passing_completionPct": "62.1",
+      "passing_passingYards": "2,218",
+      "passing_yardsPerPassAttempt": "6.5",
+      "passing_passingTouchdowns": "12",
+      "passing_interceptions": "7",
+      "passing_longPassing": "50",
+      "passing_sacks": "24",
+      "passing_QBRating": "83.9",
+      "passing_adjQBR": "41.3",
+      "rushing_gamesPlayed": "11",
+      "rushing_rushingAttempts": "17",
+      "rushing_rushingYards": "11",
+      "rushing_yardsPerRushAttempt": "0.6",
+      "rushing_rushingTouchdowns": "1",
+      "rushing_longRushing": "3",
+      "rushing_rushingFirstDowns": "7",
+      "rushing_rushingFumbles": "1",
+      "rushing_rushingFumblesLost": "0",
+      "scoring_gamesPlayed": "11",
+      "scoring_passingTouchdowns": "12",
+      "scoring_rushingTouchdowns": "1",
+      "scoring_receivingTouchdowns": "0",
+      "scoring_returnTouchdowns": "0",
+      "scoring_totalTouchdowns": "1",
+      "scoring_totalTwoPointConvs": "0",
+      "scoring_kickExtraPoints": "0",
+      "scoring_fieldGoals": "0",
+      "scoring_totalPoints": "6"
+    }
+  ]
+}

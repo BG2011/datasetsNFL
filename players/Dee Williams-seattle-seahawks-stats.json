@@ -1,0 +1,31 @@
+{
+  "statistics_by_year": [
+    {
+      "Year": 2024,
+      "Team": "seattle-seahawks",
+      "returning_gamesPlayed": "2",
+      "returning_puntReturns": "3",
+      "returning_puntReturnYards": "38",
+      "returning_puntReturnTouchdowns": "0",
+      "returning_puntReturnFairCatches": "5",
+      "returning_longPuntReturn": "23",
+      "returning_kickReturns": "0",
+      "returning_kickReturnYards": "0",
+      "returning_kickReturnTouchdowns": "0",
+      "returning_kickReturnFairCatches": "0",
+      "returning_longKickReturn": "0",
+      "passing_gamesPlayed": "2",
+      "passing_completions": "0",
+      "passing_passingAttempts": "0",
+      "passing_completionPct": "0.0",
+      "passing_passingYards": "0",
+      "passing_yardsPerPassAttempt": "0.0",
+      "passing_passingTouchdowns": "0",
+      "passing_interceptions": "0",
+      "passing_longPassing": "0",
+      "passing_sacks": "0",
+      "passing_QBRating": "39.6",
+      "passing_adjQBR": "-"
+    }
+  ]
+}

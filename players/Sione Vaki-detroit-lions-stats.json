@@ -1,0 +1,39 @@
+{
+  "statistics_by_year": [
+    {
+      "Year": 2024,
+      "Team": "detroit-lions",
+      "rushing_gamesPlayed": "2",
+      "rushing_rushingAttempts": "0",
+      "rushing_rushingYards": "0",
+      "rushing_yardsPerRushAttempt": "0.0",
+      "rushing_rushingTouchdowns": "0",
+      "rushing_longRushing": "0",
+      "rushing_rushingFirstDowns": "0",
+      "rushing_rushingFumbles": "0",
+      "rushing_rushingFumblesLost": "0",
+      "receiving_gamesPlayed": "2",
+      "receiving_receptions": "1",
+      "receiving_receivingTargets": "1",
+      "receiving_receivingYards": "17",
+      "receiving_yardsPerReception": "17.0",
+      "receiving_receivingTouchdowns": "0",
+      "receiving_longReception": "17",
+      "receiving_receivingFirstDowns": "1",
+      "receiving_receivingFumbles": "0",
+      "receiving_receivingFumblesLost": "0",
+      "passing_gamesPlayed": "2",
+      "passing_completions": "0",
+      "passing_passingAttempts": "0",
+      "passing_completionPct": "0.0",
+      "passing_passingYards": "0",
+      "passing_yardsPerPassAttempt": "0.0",
+      "passing_passingTouchdowns": "0",
+      "passing_interceptions": "0",
+      "passing_longPassing": "0",
+      "passing_sacks": "0",
+      "passing_QBRating": "39.6",
+      "passing_adjQBR": "-"
+    }
+  ]
+}

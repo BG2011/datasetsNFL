@@ -1,0 +1,30 @@
+{
+  "statistics_by_year": [
+    {
+      "Year": 2018,
+      "Team": "arizona-cardinals",
+      "kicking_gamesPlayed": "1",
+      "kicking_fieldGoalsMade-fieldGoalAttempts": "3-3",
+      "kicking_fieldGoalPct": "100.0",
+      "kicking_fieldGoalsMade1_19-fieldGoalAttempts1_19": "0-0",
+      "kicking_fieldGoalsMade20_29-fieldGoalAttempts20_29": "0-0",
+      "kicking_fieldGoalsMade30_39-fieldGoalAttempts30_39": "2-2",
+      "kicking_fieldGoalsMade40_49-fieldGoalAttempts40_49": "1-1",
+      "kicking_fieldGoalsMade50-fieldGoalAttempts50": "0-0",
+      "kicking_longFieldGoalMade": "47",
+      "kicking_extraPointsMade": "1",
+      "kicking_extraPointAttempts": "1",
+      "kicking_totalKickingPoints": "10",
+      "scoring_gamesPlayed": "1",
+      "scoring_passingTouchdowns": "0",
+      "scoring_rushingTouchdowns": "0",
+      "scoring_receivingTouchdowns": "0",
+      "scoring_returnTouchdowns": "0",
+      "scoring_totalTouchdowns": "0",
+      "scoring_totalTwoPointConvs": "0",
+      "scoring_kickExtraPoints": "1",
+      "scoring_fieldGoals": "3",
+      "scoring_totalPoints": "10"
+    }
+  ]
+}

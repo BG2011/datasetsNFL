@@ -1,0 +1,19 @@
+{
+  "statistics_by_year": [
+    {
+      "Year": 2024,
+      "Team": "indianapolis-colts",
+      "returning_gamesPlayed": "2",
+      "returning_puntReturns": "0",
+      "returning_puntReturnYards": "0",
+      "returning_puntReturnTouchdowns": "0",
+      "returning_puntReturnFairCatches": "3",
+      "returning_longPuntReturn": "0",
+      "returning_kickReturns": "4",
+      "returning_kickReturnYards": "109",
+      "returning_kickReturnTouchdowns": "0",
+      "returning_kickReturnFairCatches": "0",
+      "returning_longKickReturn": "32"
+    }
+  ]
+}

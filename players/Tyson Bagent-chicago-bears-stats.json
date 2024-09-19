@@ -1,0 +1,39 @@
+{
+  "statistics_by_year": [
+    {
+      "Year": 2023,
+      "Team": "chicago-bears",
+      "passing_gamesPlayed": "5",
+      "passing_completions": "94",
+      "passing_passingAttempts": "143",
+      "passing_completionPct": "65.7",
+      "passing_passingYards": "859",
+      "passing_yardsPerPassAttempt": "6.0",
+      "passing_passingTouchdowns": "3",
+      "passing_interceptions": "6",
+      "passing_longPassing": "41",
+      "passing_sacks": "5",
+      "passing_QBRating": "71.4",
+      "passing_adjQBR": "52.6",
+      "rushing_gamesPlayed": "5",
+      "rushing_rushingAttempts": "23",
+      "rushing_rushingYards": "109",
+      "rushing_yardsPerRushAttempt": "4.7",
+      "rushing_rushingTouchdowns": "2",
+      "rushing_longRushing": "20",
+      "rushing_rushingFirstDowns": "11",
+      "rushing_rushingFumbles": "1",
+      "rushing_rushingFumblesLost": "0",
+      "scoring_gamesPlayed": "5",
+      "scoring_passingTouchdowns": "3",
+      "scoring_rushingTouchdowns": "2",
+      "scoring_receivingTouchdowns": "0",
+      "scoring_returnTouchdowns": "0",
+      "scoring_totalTouchdowns": "2",
+      "scoring_totalTwoPointConvs": "0",
+      "scoring_kickExtraPoints": "0",
+      "scoring_fieldGoals": "0",
+      "scoring_totalPoints": "12"
+    }
+  ]
+}

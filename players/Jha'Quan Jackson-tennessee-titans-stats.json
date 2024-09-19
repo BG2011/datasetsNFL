@@ -1,0 +1,19 @@
+{
+  "statistics_by_year": [
+    {
+      "Year": 2024,
+      "Team": "tennessee-titans",
+      "returning_gamesPlayed": "2",
+      "returning_puntReturns": "9",
+      "returning_puntReturnYards": "67",
+      "returning_puntReturnTouchdowns": "0",
+      "returning_puntReturnFairCatches": "2",
+      "returning_longPuntReturn": "18",
+      "returning_kickReturns": "6",
+      "returning_kickReturnYards": "157",
+      "returning_kickReturnTouchdowns": "0",
+      "returning_kickReturnFairCatches": "0",
+      "returning_longKickReturn": "30"
+    }
+  ]
+}

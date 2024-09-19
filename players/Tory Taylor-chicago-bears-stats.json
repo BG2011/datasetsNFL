@@ -1,0 +1,21 @@
+{
+  "statistics_by_year": [
+    {
+      "Year": 2024,
+      "Team": "chicago-bears",
+      "punting_gamesPlayed": "2",
+      "punting_punts": "12",
+      "punting_grossAvgPuntYards": "46.2",
+      "punting_longPunt": "60",
+      "punting_puntYards": "554",
+      "punting_touchbacks": "1",
+      "punting_touchbackPct": "8.33",
+      "punting_puntsInside20": "5",
+      "punting_puntsInside20Pct": "41.67",
+      "punting_puntReturns": "7",
+      "punting_puntReturnYards": "41",
+      "punting_avgPuntReturnYards": "5.9",
+      "punting_netAvgPuntYards": "41.1"
+    }
+  ]
+}

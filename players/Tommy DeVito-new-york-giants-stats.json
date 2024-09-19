@@ -1,0 +1,39 @@
+{
+  "statistics_by_year": [
+    {
+      "Year": 2023,
+      "Team": "new-york-giants",
+      "passing_gamesPlayed": "9",
+      "passing_completions": "114",
+      "passing_passingAttempts": "178",
+      "passing_completionPct": "64.0",
+      "passing_passingYards": "1,101",
+      "passing_yardsPerPassAttempt": "6.2",
+      "passing_passingTouchdowns": "8",
+      "passing_interceptions": "3",
+      "passing_longPassing": "41",
+      "passing_sacks": "37",
+      "passing_QBRating": "89.2",
+      "passing_adjQBR": "24.3",
+      "rushing_gamesPlayed": "9",
+      "rushing_rushingAttempts": "36",
+      "rushing_rushingYards": "195",
+      "rushing_yardsPerRushAttempt": "5.4",
+      "rushing_rushingTouchdowns": "1",
+      "rushing_longRushing": "26",
+      "rushing_rushingFirstDowns": "7",
+      "rushing_rushingFumbles": "2",
+      "rushing_rushingFumblesLost": "1",
+      "scoring_gamesPlayed": "9",
+      "scoring_passingTouchdowns": "8",
+      "scoring_rushingTouchdowns": "1",
+      "scoring_receivingTouchdowns": "0",
+      "scoring_returnTouchdowns": "0",
+      "scoring_totalTouchdowns": "1",
+      "scoring_totalTwoPointConvs": "0",
+      "scoring_kickExtraPoints": "0",
+      "scoring_fieldGoals": "0",
+      "scoring_totalPoints": "6"
+    }
+  ]
+}

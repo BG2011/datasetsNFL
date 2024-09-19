@@ -1,0 +1,29 @@
+{
+  "statistics_by_year": [
+    {
+      "Year": 2024,
+      "Team": "chicago-bears",
+      "passing_gamesPlayed": "2",
+      "passing_completions": "37",
+      "passing_passingAttempts": "66",
+      "passing_completionPct": "56.1",
+      "passing_passingYards": "267",
+      "passing_yardsPerPassAttempt": "4.0",
+      "passing_passingTouchdowns": "0",
+      "passing_interceptions": "2",
+      "passing_longPassing": "27",
+      "passing_sacks": "9",
+      "passing_QBRating": "53.0",
+      "passing_adjQBR": "24.2",
+      "rushing_gamesPlayed": "2",
+      "rushing_rushingAttempts": "10",
+      "rushing_rushingYards": "59",
+      "rushing_yardsPerRushAttempt": "5.9",
+      "rushing_rushingTouchdowns": "0",
+      "rushing_longRushing": "24",
+      "rushing_rushingFirstDowns": "2",
+      "rushing_rushingFumbles": "1",
+      "rushing_rushingFumblesLost": "0"
+    }
+  ]
+}

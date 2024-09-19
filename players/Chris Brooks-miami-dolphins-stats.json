@@ -1,0 +1,29 @@
+{
+  "statistics_by_year": [
+    {
+      "Year": 2023,
+      "Team": "miami-dolphins",
+      "rushing_gamesPlayed": "9",
+      "rushing_rushingAttempts": "19",
+      "rushing_rushingYards": "106",
+      "rushing_yardsPerRushAttempt": "5.6",
+      "rushing_rushingTouchdowns": "0",
+      "rushing_longRushing": "52",
+      "rushing_rushingFirstDowns": "2",
+      "rushing_rushingFumbles": "0",
+      "rushing_rushingFumblesLost": "0",
+      "passing_gamesPlayed": "9",
+      "passing_completions": "0",
+      "passing_passingAttempts": "0",
+      "passing_completionPct": "0.0",
+      "passing_passingYards": "0",
+      "passing_yardsPerPassAttempt": "0.0",
+      "passing_passingTouchdowns": "0",
+      "passing_interceptions": "0",
+      "passing_longPassing": "0",
+      "passing_sacks": "0",
+      "passing_QBRating": "39.6",
+      "passing_adjQBR": "-"
+    }
+  ]
+}

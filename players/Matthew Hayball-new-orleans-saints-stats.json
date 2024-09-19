@@ -1,0 +1,21 @@
+{
+  "statistics_by_year": [
+    {
+      "Year": 2024,
+      "Team": "new-orleans-saints",
+      "punting_gamesPlayed": "2",
+      "punting_punts": "3",
+      "punting_grossAvgPuntYards": "40.7",
+      "punting_longPunt": "49",
+      "punting_puntYards": "122",
+      "punting_touchbacks": "0",
+      "punting_touchbackPct": "0.00",
+      "punting_puntsInside20": "2",
+      "punting_puntsInside20Pct": "66.67",
+      "punting_puntReturns": "0",
+      "punting_puntReturnYards": "0",
+      "punting_avgPuntReturnYards": "0.0",
+      "punting_netAvgPuntYards": "40.7"
+    }
+  ]
+}

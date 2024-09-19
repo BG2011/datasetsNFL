@@ -1,0 +1,29 @@
+{
+  "statistics_by_year": [
+    {
+      "Year": 2023,
+      "Team": "minnesota-vikings",
+      "passing_gamesPlayed": "3",
+      "passing_completions": "13",
+      "passing_passingAttempts": "20",
+      "passing_completionPct": "65.0",
+      "passing_passingYards": "168",
+      "passing_yardsPerPassAttempt": "8.4",
+      "passing_passingTouchdowns": "0",
+      "passing_interceptions": "1",
+      "passing_longPassing": "47",
+      "passing_sacks": "4",
+      "passing_QBRating": "70.4",
+      "passing_adjQBR": "5.3",
+      "rushing_gamesPlayed": "3",
+      "rushing_rushingAttempts": "6",
+      "rushing_rushingYards": "14",
+      "rushing_yardsPerRushAttempt": "2.3",
+      "rushing_rushingTouchdowns": "0",
+      "rushing_longRushing": "8",
+      "rushing_rushingFirstDowns": "0",
+      "rushing_rushingFumbles": "0",
+      "rushing_rushingFumblesLost": "0"
+    }
+  ]
+}

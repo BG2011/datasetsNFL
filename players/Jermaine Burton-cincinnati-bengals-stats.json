@@ -1,0 +1,30 @@
+{
+  "statistics_by_year": [
+    {
+      "Year": 2024,
+      "Team": "cincinnati-bengals",
+      "receiving_gamesPlayed": "2",
+      "receiving_receptions": "1",
+      "receiving_receivingTargets": "2",
+      "receiving_receivingYards": "47",
+      "receiving_yardsPerReception": "47.0",
+      "receiving_receivingTouchdowns": "0",
+      "receiving_longReception": "47",
+      "receiving_receivingFirstDowns": "1",
+      "receiving_receivingFumbles": "0",
+      "receiving_receivingFumblesLost": "0",
+      "passing_gamesPlayed": "2",
+      "passing_completions": "0",
+      "passing_passingAttempts": "0",
+      "passing_completionPct": "0.0",
+      "passing_passingYards": "0",
+      "passing_yardsPerPassAttempt": "0.0",
+      "passing_passingTouchdowns": "0",
+      "passing_interceptions": "0",
+      "passing_longPassing": "0",
+      "passing_sacks": "0",
+      "passing_QBRating": "39.6",
+      "passing_adjQBR": "-"
+    }
+  ]
+}

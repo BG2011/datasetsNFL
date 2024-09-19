@@ -1,0 +1,46 @@
+{
+  "statistics_by_year": [
+    {
+      "Year": 2022,
+      "Team": "kansas-city-chiefs",
+      "defensive_gamesPlayed": "15",
+      "defensive_totalTackles": "9",
+      "defensive_soloTackles": "5",
+      "defensive_assistTackles": "4",
+      "defensive_sacks": "0",
+      "defensive_fumblesForced": "0",
+      "defensive_fumblesRecovered": "0",
+      "defensive_fumblesRecoveredYards": "0",
+      "defensive_interceptions": "0",
+      "defensive_interceptionYards": "0",
+      "defensive_avgInterceptionYards": "0.0",
+      "defensive_interceptionTouchdowns": "0",
+      "defensive_longInterception": "0",
+      "defensive_passesDefended": "0",
+      "defensive_stuffs": "0",
+      "defensive_stuffYards": "0",
+      "defensive_kicksBlocked": "0"
+    },
+    {
+      "Year": 2023,
+      "Team": "kansas-city-chiefs",
+      "defensive_gamesPlayed": "17",
+      "defensive_totalTackles": "28",
+      "defensive_soloTackles": "21",
+      "defensive_assistTackles": "7",
+      "defensive_sacks": "0",
+      "defensive_fumblesForced": "0",
+      "defensive_fumblesRecovered": "0",
+      "defensive_fumblesRecoveredYards": "0",
+      "defensive_interceptions": "0",
+      "defensive_interceptionYards": "0",
+      "defensive_avgInterceptionYards": "0.0",
+      "defensive_interceptionTouchdowns": "0",
+      "defensive_longInterception": "0",
+      "defensive_passesDefended": "1",
+      "defensive_stuffs": "1",
+      "defensive_stuffYards": "3",
+      "defensive_kicksBlocked": "0"
+    }
+  ]
+}

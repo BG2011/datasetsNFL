@@ -1,0 +1,21 @@
+{
+  "statistics_by_year": [
+    {
+      "Year": 2024,
+      "Team": "cincinnati-bengals",
+      "punting_gamesPlayed": "2",
+      "punting_punts": "6",
+      "punting_grossAvgPuntYards": "59.3",
+      "punting_longPunt": "80",
+      "punting_puntYards": "356",
+      "punting_touchbacks": "2",
+      "punting_touchbackPct": "33.33",
+      "punting_puntsInside20": "1",
+      "punting_puntsInside20Pct": "16.67",
+      "punting_puntReturns": "3",
+      "punting_puntReturnYards": "23",
+      "punting_avgPuntReturnYards": "7.7",
+      "punting_netAvgPuntYards": "48.8"
+    }
+  ]
+}

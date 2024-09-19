@@ -1,0 +1,42 @@
+{
+  "statistics_by_year": [
+    {
+      "Year": 2024,
+      "Team": "detroit-lions",
+      "kicking_gamesPlayed": "2",
+      "kicking_fieldGoalsMade-fieldGoalAttempts": "5-5",
+      "kicking_fieldGoalPct": "100.0",
+      "kicking_fieldGoalsMade1_19-fieldGoalAttempts1_19": "0-0",
+      "kicking_fieldGoalsMade20_29-fieldGoalAttempts20_29": "2-2",
+      "kicking_fieldGoalsMade30_39-fieldGoalAttempts30_39": "3-3",
+      "kicking_fieldGoalsMade40_49-fieldGoalAttempts40_49": "0-0",
+      "kicking_fieldGoalsMade50-fieldGoalAttempts50": "0-0",
+      "kicking_longFieldGoalMade": "35",
+      "kicking_extraPointsMade": "3",
+      "kicking_extraPointAttempts": "3",
+      "kicking_totalKickingPoints": "18",
+      "passing_gamesPlayed": "2",
+      "passing_completions": "0",
+      "passing_passingAttempts": "0",
+      "passing_completionPct": "0.0",
+      "passing_passingYards": "0",
+      "passing_yardsPerPassAttempt": "0.0",
+      "passing_passingTouchdowns": "0",
+      "passing_interceptions": "0",
+      "passing_longPassing": "0",
+      "passing_sacks": "0",
+      "passing_QBRating": "39.6",
+      "passing_adjQBR": "-",
+      "scoring_gamesPlayed": "2",
+      "scoring_passingTouchdowns": "0",
+      "scoring_rushingTouchdowns": "0",
+      "scoring_receivingTouchdowns": "0",
+      "scoring_returnTouchdowns": "0",
+      "scoring_totalTouchdowns": "0",
+      "scoring_totalTwoPointConvs": "0",
+      "scoring_kickExtraPoints": "3",
+      "scoring_fieldGoals": "5",
+      "scoring_totalPoints": "18"
+    }
+  ]
+}
