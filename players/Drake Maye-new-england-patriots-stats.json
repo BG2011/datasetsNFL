@@ -1,0 +1,29 @@
+{
+  "statistics_by_year": [
+    {
+      "Year": 2024,
+      "Team": "new-england-patriots",
+      "passing_gamesPlayed": "1",
+      "passing_completions": "4",
+      "passing_passingAttempts": "8",
+      "passing_completionPct": "50.0",
+      "passing_passingYards": "22",
+      "passing_yardsPerPassAttempt": "2.8",
+      "passing_passingTouchdowns": "0",
+      "passing_interceptions": "0",
+      "passing_longPassing": "15",
+      "passing_sacks": "2",
+      "passing_QBRating": "56.3",
+      "passing_adjQBR": "14.6",
+      "rushing_gamesPlayed": "1",
+      "rushing_rushingAttempts": "2",
+      "rushing_rushingYards": "12",
+      "rushing_yardsPerRushAttempt": "6.0",
+      "rushing_rushingTouchdowns": "0",
+      "rushing_longRushing": "11",
+      "rushing_rushingFirstDowns": "1",
+      "rushing_rushingFumbles": "0",
+      "rushing_rushingFumblesLost": "0"
+    }
+  ]
+}
