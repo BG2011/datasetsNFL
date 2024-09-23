@@ -1,0 +1,877 @@
+[
+    {
+        "date": "2024-01-06T21:30Z",
+        "away_team": "Pittsburgh Steelers",
+        "home_team": "Baltimore Ravens",
+        "away_score": "17",
+        "home_score": "10"
+    },
+    {
+        "date": "2024-01-07T01:15Z",
+        "away_team": "Houston Texans",
+        "home_team": "Indianapolis Colts",
+        "away_score": "23",
+        "home_score": "19"
+    },
+    {
+        "date": "2024-01-07T18:00Z",
+        "away_team": "Cleveland Browns",
+        "home_team": "Cincinnati Bengals",
+        "away_score": "14",
+        "home_score": "31"
+    },
+    {
+        "date": "2024-01-07T18:00Z",
+        "away_team": "Minnesota Vikings",
+        "home_team": "Detroit Lions",
+        "away_score": "20",
+        "home_score": "30"
+    },
+    {
+        "date": "2024-01-07T18:00Z",
+        "away_team": "Jacksonville Jaguars",
+        "home_team": "Tennessee Titans",
+        "away_score": "20",
+        "home_score": "28"
+    },
+    {
+        "date": "2024-01-07T18:00Z",
+        "away_team": "New York Jets",
+        "home_team": "New England Patriots",
+        "away_score": "17",
+        "home_score": "3"
+    },
+    {
+        "date": "2024-01-07T18:00Z",
+        "away_team": "Atlanta Falcons",
+        "home_team": "New Orleans Saints",
+        "away_score": "17",
+        "home_score": "48"
+    },
+    {
+        "date": "2024-01-07T18:00Z",
+        "away_team": "Tampa Bay Buccaneers",
+        "home_team": "Carolina Panthers",
+        "away_score": "9",
+        "home_score": "0"
+    },
+    {
+        "date": "2024-01-07T21:25Z",
+        "away_team": "Chicago Bears",
+        "home_team": "Green Bay Packers",
+        "away_score": "9",
+        "home_score": "17"
+    },
+    {
+        "date": "2024-01-07T21:25Z",
+        "away_team": "Denver Broncos",
+        "home_team": "Las Vegas Raiders",
+        "away_score": "14",
+        "home_score": "27"
+    },
+    {
+        "date": "2024-01-07T21:25Z",
+        "away_team": "Philadelphia Eagles",
+        "home_team": "New York Giants",
+        "away_score": "10",
+        "home_score": "27"
+    },
+    {
+        "date": "2024-01-07T21:25Z",
+        "away_team": "Seattle Seahawks",
+        "home_team": "Arizona Cardinals",
+        "away_score": "21",
+        "home_score": "20"
+    },
+    {
+        "date": "2024-01-07T21:25Z",
+        "away_team": "Kansas City Chiefs",
+        "home_team": "Los Angeles Chargers",
+        "away_score": "13",
+        "home_score": "12"
+    },
+    {
+        "date": "2024-01-07T21:25Z",
+        "away_team": "Los Angeles Rams",
+        "home_team": "San Francisco 49ers",
+        "away_score": "21",
+        "home_score": "20"
+    },
+    {
+        "date": "2024-01-07T21:25Z",
+        "away_team": "Dallas Cowboys",
+        "home_team": "Washington Commanders",
+        "away_score": "38",
+        "home_score": "10"
+    },
+    {
+        "date": "2024-01-08T01:20Z",
+        "away_team": "Buffalo Bills",
+        "home_team": "Miami Dolphins",
+        "away_score": "21",
+        "home_score": "14"
+    },
+    {
+        "date": "2024-01-13T21:30Z",
+        "away_team": "Cleveland Browns",
+        "home_team": "Houston Texans",
+        "away_score": "14",
+        "home_score": "45"
+    },
+    {
+        "date": "2024-01-14T01:00Z",
+        "away_team": "Miami Dolphins",
+        "home_team": "Kansas City Chiefs",
+        "away_score": "7",
+        "home_score": "26"
+    },
+    {
+        "date": "2024-01-14T21:30Z",
+        "away_team": "Green Bay Packers",
+        "home_team": "Dallas Cowboys",
+        "away_score": "48",
+        "home_score": "32"
+    },
+    {
+        "date": "2024-01-15T01:15Z",
+        "away_team": "Los Angeles Rams",
+        "home_team": "Detroit Lions",
+        "away_score": "23",
+        "home_score": "24"
+    },
+    {
+        "date": "2024-01-15T21:30Z",
+        "away_team": "Pittsburgh Steelers",
+        "home_team": "Buffalo Bills",
+        "away_score": "17",
+        "home_score": "31"
+    },
+    {
+        "date": "2024-01-16T01:15Z",
+        "away_team": "Philadelphia Eagles",
+        "home_team": "Tampa Bay Buccaneers",
+        "away_score": "9",
+        "home_score": "32"
+    },
+    {
+        "date": "2024-01-20T21:30Z",
+        "away_team": "Houston Texans",
+        "home_team": "Baltimore Ravens",
+        "away_score": "10",
+        "home_score": "34"
+    },
+    {
+        "date": "2024-01-21T01:15Z",
+        "away_team": "Green Bay Packers",
+        "home_team": "San Francisco 49ers",
+        "away_score": "21",
+        "home_score": "24"
+    },
+    {
+        "date": "2024-01-21T20:00Z",
+        "away_team": "Tampa Bay Buccaneers",
+        "home_team": "Detroit Lions",
+        "away_score": "23",
+        "home_score": "31"
+    },
+    {
+        "date": "2024-01-21T23:30Z",
+        "away_team": "Kansas City Chiefs",
+        "home_team": "Buffalo Bills",
+        "away_score": "27",
+        "home_score": "24"
+    },
+    {
+        "date": "2024-01-28T20:00Z",
+        "away_team": "Kansas City Chiefs",
+        "home_team": "Baltimore Ravens",
+        "away_score": "17",
+        "home_score": "10"
+    },
+    {
+        "date": "2024-01-28T23:30Z",
+        "away_team": "Detroit Lions",
+        "home_team": "San Francisco 49ers",
+        "away_score": "31",
+        "home_score": "34"
+    },
+    {
+        "date": "2024-02-04T20:00Z",
+        "away_team": "NFC",
+        "home_team": "AFC",
+        "away_score": "64",
+        "home_score": "59"
+    },
+    {
+        "date": "2024-02-11T23:30Z",
+        "away_team": "San Francisco 49ers",
+        "home_team": "Kansas City Chiefs",
+        "away_score": "22",
+        "home_score": "25"
+    },
+    {
+        "date": "2024-08-02T00:00Z",
+        "away_team": "Houston Texans",
+        "home_team": "Chicago Bears",
+        "away_score": "17",
+        "home_score": "21"
+    },
+    {
+        "date": "2024-08-08T23:00Z",
+        "away_team": "Carolina Panthers",
+        "home_team": "New England Patriots",
+        "away_score": "3",
+        "home_score": "17"
+    },
+    {
+        "date": "2024-08-08T23:00Z",
+        "away_team": "Detroit Lions",
+        "home_team": "New York Giants",
+        "away_score": "3",
+        "home_score": "14"
+    },
+    {
+        "date": "2024-08-09T23:00Z",
+        "away_team": "Atlanta Falcons",
+        "home_team": "Miami Dolphins",
+        "away_score": "13",
+        "home_score": "20"
+    },
+    {
+        "date": "2024-08-09T23:00Z",
+        "away_team": "Houston Texans",
+        "home_team": "Pittsburgh Steelers",
+        "away_score": "20",
+        "home_score": "12"
+    },
+    {
+        "date": "2024-08-09T23:30Z",
+        "away_team": "Philadelphia Eagles",
+        "home_team": "Baltimore Ravens",
+        "away_score": "16",
+        "home_score": "13"
+    },
+    {
+        "date": "2024-08-10T16:00Z",
+        "away_team": "Washington Commanders",
+        "home_team": "New York Jets",
+        "away_score": "17",
+        "home_score": "20"
+    },
+    {
+        "date": "2024-08-10T17:00Z",
+        "away_team": "Chicago Bears",
+        "home_team": "Buffalo Bills",
+        "away_score": "33",
+        "home_score": "6"
+    },
+    {
+        "date": "2024-08-10T20:00Z",
+        "away_team": "Las Vegas Raiders",
+        "home_team": "Minnesota Vikings",
+        "away_score": "23",
+        "home_score": "24"
+    },
+    {
+        "date": "2024-08-10T20:25Z",
+        "away_team": "Green Bay Packers",
+        "home_team": "Cleveland Browns",
+        "away_score": "23",
+        "home_score": "10"
+    },
+    {
+        "date": "2024-08-10T23:00Z",
+        "away_team": "Tampa Bay Buccaneers",
+        "home_team": "Cincinnati Bengals",
+        "away_score": "17",
+        "home_score": "14"
+    },
+    {
+        "date": "2024-08-10T23:00Z",
+        "away_team": "San Francisco 49ers",
+        "home_team": "Tennessee Titans",
+        "away_score": "13",
+        "home_score": "17"
+    },
+    {
+        "date": "2024-08-10T23:00Z",
+        "away_team": "Kansas City Chiefs",
+        "home_team": "Jacksonville Jaguars",
+        "away_score": "13",
+        "home_score": "26"
+    },
+    {
+        "date": "2024-08-10T23:05Z",
+        "away_team": "Seattle Seahawks",
+        "home_team": "Los Angeles Chargers",
+        "away_score": "16",
+        "home_score": "3"
+    },
+    {
+        "date": "2024-08-11T00:00Z",
+        "away_team": "New Orleans Saints",
+        "home_team": "Arizona Cardinals",
+        "away_score": "16",
+        "home_score": "14"
+    },
+    {
+        "date": "2024-08-11T17:00Z",
+        "away_team": "Denver Broncos",
+        "home_team": "Indianapolis Colts",
+        "away_score": "34",
+        "home_score": "30"
+    },
+    {
+        "date": "2024-08-11T20:30Z",
+        "away_team": "Dallas Cowboys",
+        "home_team": "Los Angeles Rams",
+        "away_score": "12",
+        "home_score": "13"
+    },
+    {
+        "date": "2024-08-15T23:00Z",
+        "away_team": "Philadelphia Eagles",
+        "home_team": "New England Patriots",
+        "away_score": "14",
+        "home_score": "13"
+    },
+    {
+        "date": "2024-08-17T16:00Z",
+        "away_team": "Atlanta Falcons",
+        "home_team": "Baltimore Ravens",
+        "away_score": "12",
+        "home_score": "13"
+    },
+    {
+        "date": "2024-08-17T17:00Z",
+        "away_team": "Cincinnati Bengals",
+        "home_team": "Chicago Bears",
+        "away_score": "3",
+        "home_score": "27"
+    },
+    {
+        "date": "2024-08-17T17:00Z",
+        "away_team": "New York Giants",
+        "home_team": "Houston Texans",
+        "away_score": "10",
+        "home_score": "28"
+    },
+    {
+        "date": "2024-08-17T20:00Z",
+        "away_team": "Detroit Lions",
+        "home_team": "Kansas City Chiefs",
+        "away_score": "24",
+        "home_score": "23"
+    },
+    {
+        "date": "2024-08-17T20:25Z",
+        "away_team": "Minnesota Vikings",
+        "home_team": "Cleveland Browns",
+        "away_score": "27",
+        "home_score": "12"
+    },
+    {
+        "date": "2024-08-17T23:00Z",
+        "away_team": "Seattle Seahawks",
+        "home_team": "Tennessee Titans",
+        "away_score": "15",
+        "home_score": "16"
+    },
+    {
+        "date": "2024-08-17T23:00Z",
+        "away_team": "Arizona Cardinals",
+        "home_team": "Indianapolis Colts",
+        "away_score": "13",
+        "home_score": "21"
+    },
+    {
+        "date": "2024-08-17T23:00Z",
+        "away_team": "Washington Commanders",
+        "home_team": "Miami Dolphins",
+        "away_score": "6",
+        "home_score": "13"
+    },
+    {
+        "date": "2024-08-17T23:00Z",
+        "away_team": "Buffalo Bills",
+        "home_team": "Pittsburgh Steelers",
+        "away_score": "9",
+        "home_score": "3"
+    },
+    {
+        "date": "2024-08-17T23:00Z",
+        "away_team": "New York Jets",
+        "home_team": "Carolina Panthers",
+        "away_score": "15",
+        "home_score": "12"
+    },
+    {
+        "date": "2024-08-17T23:05Z",
+        "away_team": "Los Angeles Rams",
+        "home_team": "Los Angeles Chargers",
+        "away_score": "13",
+        "home_score": "9"
+    },
+    {
+        "date": "2024-08-17T23:30Z",
+        "away_team": "Tampa Bay Buccaneers",
+        "home_team": "Jacksonville Jaguars",
+        "away_score": "7",
+        "home_score": "20"
+    },
+    {
+        "date": "2024-08-18T02:00Z",
+        "away_team": "Dallas Cowboys",
+        "home_team": "Las Vegas Raiders",
+        "away_score": "27",
+        "home_score": "12"
+    },
+    {
+        "date": "2024-08-19T00:00Z",
+        "away_team": "Green Bay Packers",
+        "home_team": "Denver Broncos",
+        "away_score": "2",
+        "home_score": "27"
+    },
+    {
+        "date": "2024-08-19T00:00Z",
+        "away_team": "New Orleans Saints",
+        "home_team": "San Francisco 49ers",
+        "away_score": "10",
+        "home_score": "16"
+    },
+    {
+        "date": "2024-08-23T00:00Z",
+        "away_team": "Indianapolis Colts",
+        "home_team": "Cincinnati Bengals",
+        "away_score": "27",
+        "home_score": "14"
+    },
+    {
+        "date": "2024-08-23T00:20Z",
+        "away_team": "Chicago Bears",
+        "home_team": "Kansas City Chiefs",
+        "away_score": "34",
+        "home_score": "21"
+    },
+    {
+        "date": "2024-08-23T23:00Z",
+        "away_team": "Jacksonville Jaguars",
+        "home_team": "Atlanta Falcons",
+        "away_score": "31",
+        "home_score": "0"
+    },
+    {
+        "date": "2024-08-23T23:30Z",
+        "away_team": "Miami Dolphins",
+        "home_team": "Tampa Bay Buccaneers",
+        "away_score": "14",
+        "home_score": "24"
+    },
+    {
+        "date": "2024-08-24T02:00Z",
+        "away_team": "San Francisco 49ers",
+        "home_team": "Las Vegas Raiders",
+        "away_score": "24",
+        "home_score": "24"
+    },
+    {
+        "date": "2024-08-24T17:00Z",
+        "away_team": "Carolina Panthers",
+        "home_team": "Buffalo Bills",
+        "away_score": "31",
+        "home_score": "26"
+    },
+    {
+        "date": "2024-08-24T17:00Z",
+        "away_team": "Pittsburgh Steelers",
+        "home_team": "Detroit Lions",
+        "away_score": "17",
+        "home_score": "24"
+    },
+    {
+        "date": "2024-08-24T17:00Z",
+        "away_team": "Baltimore Ravens",
+        "home_team": "Green Bay Packers",
+        "away_score": "7",
+        "home_score": "30"
+    },
+    {
+        "date": "2024-08-24T17:00Z",
+        "away_team": "Minnesota Vikings",
+        "home_team": "Philadelphia Eagles",
+        "away_score": "26",
+        "home_score": "3"
+    },
+    {
+        "date": "2024-08-24T17:00Z",
+        "away_team": "Los Angeles Rams",
+        "home_team": "Houston Texans",
+        "away_score": "15",
+        "home_score": "17"
+    },
+    {
+        "date": "2024-08-24T20:00Z",
+        "away_team": "Los Angeles Chargers",
+        "home_team": "Dallas Cowboys",
+        "away_score": "26",
+        "home_score": "19"
+    },
+    {
+        "date": "2024-08-24T23:30Z",
+        "away_team": "New York Giants",
+        "home_team": "New York Jets",
+        "away_score": "6",
+        "home_score": "10"
+    },
+    {
+        "date": "2024-08-25T02:00Z",
+        "away_team": "Cleveland Browns",
+        "home_team": "Seattle Seahawks",
+        "away_score": "33",
+        "home_score": "37"
+    },
+    {
+        "date": "2024-08-25T18:00Z",
+        "away_team": "Tennessee Titans",
+        "home_team": "New Orleans Saints",
+        "away_score": "30",
+        "home_score": "27"
+    },
+    {
+        "date": "2024-08-25T20:30Z",
+        "away_team": "Arizona Cardinals",
+        "home_team": "Denver Broncos",
+        "away_score": "12",
+        "home_score": "38"
+    },
+    {
+        "date": "2024-08-26T00:00Z",
+        "away_team": "New England Patriots",
+        "home_team": "Washington Commanders",
+        "away_score": "10",
+        "home_score": "20"
+    },
+    {
+        "date": "2024-09-06T00:40Z",
+        "away_team": "Baltimore Ravens",
+        "home_team": "Kansas City Chiefs",
+        "away_score": "20",
+        "home_score": "27"
+    },
+    {
+        "date": "2024-09-07T00:15Z",
+        "away_team": "Green Bay Packers",
+        "home_team": "Philadelphia Eagles",
+        "away_score": "29",
+        "home_score": "34"
+    },
+    {
+        "date": "2024-09-08T17:00Z",
+        "away_team": "Pittsburgh Steelers",
+        "home_team": "Atlanta Falcons",
+        "away_score": "18",
+        "home_score": "10"
+    },
+    {
+        "date": "2024-09-08T17:00Z",
+        "away_team": "Arizona Cardinals",
+        "home_team": "Buffalo Bills",
+        "away_score": "28",
+        "home_score": "34"
+    },
+    {
+        "date": "2024-09-08T17:00Z",
+        "away_team": "Tennessee Titans",
+        "home_team": "Chicago Bears",
+        "away_score": "17",
+        "home_score": "24"
+    },
+    {
+        "date": "2024-09-08T17:00Z",
+        "away_team": "New England Patriots",
+        "home_team": "Cincinnati Bengals",
+        "away_score": "16",
+        "home_score": "10"
+    },
+    {
+        "date": "2024-09-08T17:00Z",
+        "away_team": "Houston Texans",
+        "home_team": "Indianapolis Colts",
+        "away_score": "29",
+        "home_score": "27"
+    },
+    {
+        "date": "2024-09-08T17:00Z",
+        "away_team": "Jacksonville Jaguars",
+        "home_team": "Miami Dolphins",
+        "away_score": "17",
+        "home_score": "20"
+    },
+    {
+        "date": "2024-09-08T17:00Z",
+        "away_team": "Carolina Panthers",
+        "home_team": "New Orleans Saints",
+        "away_score": "10",
+        "home_score": "47"
+    },
+    {
+        "date": "2024-09-08T17:00Z",
+        "away_team": "Minnesota Vikings",
+        "home_team": "New York Giants",
+        "away_score": "28",
+        "home_score": "6"
+    },
+    {
+        "date": "2024-09-08T20:05Z",
+        "away_team": "Las Vegas Raiders",
+        "home_team": "Los Angeles Chargers",
+        "away_score": "10",
+        "home_score": "22"
+    },
+    {
+        "date": "2024-09-08T20:05Z",
+        "away_team": "Denver Broncos",
+        "home_team": "Seattle Seahawks",
+        "away_score": "20",
+        "home_score": "26"
+    },
+    {
+        "date": "2024-09-08T20:25Z",
+        "away_team": "Dallas Cowboys",
+        "home_team": "Cleveland Browns",
+        "away_score": "33",
+        "home_score": "17"
+    },
+    {
+        "date": "2024-09-08T20:25Z",
+        "away_team": "Washington Commanders",
+        "home_team": "Tampa Bay Buccaneers",
+        "away_score": "20",
+        "home_score": "37"
+    },
+    {
+        "date": "2024-09-09T00:20Z",
+        "away_team": "Los Angeles Rams",
+        "home_team": "Detroit Lions",
+        "away_score": "20",
+        "home_score": "26"
+    },
+    {
+        "date": "2024-09-10T00:15Z",
+        "away_team": "New York Jets",
+        "home_team": "San Francisco 49ers",
+        "away_score": "19",
+        "home_score": "32"
+    },
+    {
+        "date": "2024-09-13T00:15Z",
+        "away_team": "Buffalo Bills",
+        "home_team": "Miami Dolphins",
+        "away_score": "31",
+        "home_score": "10"
+    },
+    {
+        "date": "2024-09-15T17:00Z",
+        "away_team": "New Orleans Saints",
+        "home_team": "Dallas Cowboys",
+        "away_score": "44",
+        "home_score": "19"
+    },
+    {
+        "date": "2024-09-15T17:00Z",
+        "away_team": "Tampa Bay Buccaneers",
+        "home_team": "Detroit Lions",
+        "away_score": "20",
+        "home_score": "16"
+    },
+    {
+        "date": "2024-09-15T17:00Z",
+        "away_team": "Indianapolis Colts",
+        "home_team": "Green Bay Packers",
+        "away_score": "10",
+        "home_score": "16"
+    },
+    {
+        "date": "2024-09-15T17:00Z",
+        "away_team": "New York Jets",
+        "home_team": "Tennessee Titans",
+        "away_score": "24",
+        "home_score": "17"
+    },
+    {
+        "date": "2024-09-15T17:00Z",
+        "away_team": "San Francisco 49ers",
+        "home_team": "Minnesota Vikings",
+        "away_score": "17",
+        "home_score": "23"
+    },
+    {
+        "date": "2024-09-15T17:00Z",
+        "away_team": "Seattle Seahawks",
+        "home_team": "New England Patriots",
+        "away_score": "23",
+        "home_score": "20"
+    },
+    {
+        "date": "2024-09-15T17:00Z",
+        "away_team": "New York Giants",
+        "home_team": "Washington Commanders",
+        "away_score": "18",
+        "home_score": "21"
+    },
+    {
+        "date": "2024-09-15T17:00Z",
+        "away_team": "Los Angeles Chargers",
+        "home_team": "Carolina Panthers",
+        "away_score": "26",
+        "home_score": "3"
+    },
+    {
+        "date": "2024-09-15T17:00Z",
+        "away_team": "Cleveland Browns",
+        "home_team": "Jacksonville Jaguars",
+        "away_score": "18",
+        "home_score": "13"
+    },
+    {
+        "date": "2024-09-15T17:00Z",
+        "away_team": "Las Vegas Raiders",
+        "home_team": "Baltimore Ravens",
+        "away_score": "26",
+        "home_score": "23"
+    },
+    {
+        "date": "2024-09-15T20:05Z",
+        "away_team": "Los Angeles Rams",
+        "home_team": "Arizona Cardinals",
+        "away_score": "10",
+        "home_score": "41"
+    },
+    {
+        "date": "2024-09-15T20:25Z",
+        "away_team": "Pittsburgh Steelers",
+        "home_team": "Denver Broncos",
+        "away_score": "13",
+        "home_score": "6"
+    },
+    {
+        "date": "2024-09-15T20:25Z",
+        "away_team": "Cincinnati Bengals",
+        "home_team": "Kansas City Chiefs",
+        "away_score": "25",
+        "home_score": "26"
+    },
+    {
+        "date": "2024-09-16T00:20Z",
+        "away_team": "Chicago Bears",
+        "home_team": "Houston Texans",
+        "away_score": "13",
+        "home_score": "19"
+    },
+    {
+        "date": "2024-09-17T00:15Z",
+        "away_team": "Atlanta Falcons",
+        "home_team": "Philadelphia Eagles",
+        "away_score": "22",
+        "home_score": "21"
+    },
+    {
+        "date": "2024-09-20T00:15Z",
+        "away_team": "New England Patriots",
+        "home_team": "New York Jets",
+        "away_score": "3",
+        "home_score": "24"
+    },
+    {
+        "date": "2024-09-22T17:00Z",
+        "away_team": "New York Giants",
+        "home_team": "Cleveland Browns",
+        "away_score": "21",
+        "home_score": "15"
+    },
+    {
+        "date": "2024-09-22T17:00Z",
+        "away_team": "Green Bay Packers",
+        "home_team": "Tennessee Titans",
+        "away_score": "30",
+        "home_score": "14"
+    },
+    {
+        "date": "2024-09-22T17:00Z",
+        "away_team": "Chicago Bears",
+        "home_team": "Indianapolis Colts",
+        "away_score": "16",
+        "home_score": "21"
+    },
+    {
+        "date": "2024-09-22T17:00Z",
+        "away_team": "Houston Texans",
+        "home_team": "Minnesota Vikings",
+        "away_score": "7",
+        "home_score": "34"
+    },
+    {
+        "date": "2024-09-22T17:00Z",
+        "away_team": "Philadelphia Eagles",
+        "home_team": "New Orleans Saints",
+        "away_score": "15",
+        "home_score": "12"
+    },
+    {
+        "date": "2024-09-22T17:00Z",
+        "away_team": "Los Angeles Chargers",
+        "home_team": "Pittsburgh Steelers",
+        "away_score": "10",
+        "home_score": "20"
+    },
+    {
+        "date": "2024-09-22T17:00Z",
+        "away_team": "Denver Broncos",
+        "home_team": "Tampa Bay Buccaneers",
+        "away_score": "26",
+        "home_score": "7"
+    },
+    {
+        "date": "2024-09-22T20:05Z",
+        "away_team": "Carolina Panthers",
+        "home_team": "Las Vegas Raiders",
+        "away_score": "36",
+        "home_score": "22"
+    },
+    {
+        "date": "2024-09-22T20:05Z",
+        "away_team": "Miami Dolphins",
+        "home_team": "Seattle Seahawks",
+        "away_score": "3",
+        "home_score": "24"
+    },
+    {
+        "date": "2024-09-22T20:25Z",
+        "away_team": "Baltimore Ravens",
+        "home_team": "Dallas Cowboys",
+        "away_score": "28",
+        "home_score": "25"
+    },
+    {
+        "date": "2024-09-22T20:25Z",
+        "away_team": "San Francisco 49ers",
+        "home_team": "Los Angeles Rams",
+        "away_score": "24",
+        "home_score": "27"
+    },
+    {
+        "date": "2024-09-22T20:25Z",
+        "away_team": "Detroit Lions",
+        "home_team": "Arizona Cardinals",
+        "away_score": "20",
+        "home_score": "13"
+    },
+    {
+        "date": "2024-09-23T00:20Z",
+        "away_team": "Kansas City Chiefs",
+        "home_team": "Atlanta Falcons",
+        "away_score": "22",
+        "home_score": "17"
+    }
+]

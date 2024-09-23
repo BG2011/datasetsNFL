@@ -1,0 +1,2221 @@
+[
+    {
+        "date": "2021-01-03T18:00Z",
+        "away_team": "Miami Dolphins",
+        "home_team": "Buffalo Bills",
+        "away_score": "26",
+        "home_score": "56"
+    },
+    {
+        "date": "2021-01-03T18:00Z",
+        "away_team": "Baltimore Ravens",
+        "home_team": "Cincinnati Bengals",
+        "away_score": "38",
+        "home_score": "3"
+    },
+    {
+        "date": "2021-01-03T18:00Z",
+        "away_team": "Pittsburgh Steelers",
+        "home_team": "Cleveland Browns",
+        "away_score": "22",
+        "home_score": "24"
+    },
+    {
+        "date": "2021-01-03T18:00Z",
+        "away_team": "Minnesota Vikings",
+        "home_team": "Detroit Lions",
+        "away_score": "37",
+        "home_score": "35"
+    },
+    {
+        "date": "2021-01-03T18:00Z",
+        "away_team": "New York Jets",
+        "home_team": "New England Patriots",
+        "away_score": "14",
+        "home_score": "28"
+    },
+    {
+        "date": "2021-01-03T18:00Z",
+        "away_team": "Dallas Cowboys",
+        "home_team": "New York Giants",
+        "away_score": "19",
+        "home_score": "23"
+    },
+    {
+        "date": "2021-01-03T18:00Z",
+        "away_team": "Atlanta Falcons",
+        "home_team": "Tampa Bay Buccaneers",
+        "away_score": "27",
+        "home_score": "44"
+    },
+    {
+        "date": "2021-01-03T21:25Z",
+        "away_team": "Green Bay Packers",
+        "home_team": "Chicago Bears",
+        "away_score": "35",
+        "home_score": "16"
+    },
+    {
+        "date": "2021-01-03T21:25Z",
+        "away_team": "Las Vegas Raiders",
+        "home_team": "Denver Broncos",
+        "away_score": "32",
+        "home_score": "31"
+    },
+    {
+        "date": "2021-01-03T21:25Z",
+        "away_team": "Jacksonville Jaguars",
+        "home_team": "Indianapolis Colts",
+        "away_score": "14",
+        "home_score": "28"
+    },
+    {
+        "date": "2021-01-03T21:25Z",
+        "away_team": "Los Angeles Chargers",
+        "home_team": "Kansas City Chiefs",
+        "away_score": "38",
+        "home_score": "21"
+    },
+    {
+        "date": "2021-01-03T21:25Z",
+        "away_team": "Arizona Cardinals",
+        "home_team": "Los Angeles Rams",
+        "away_score": "7",
+        "home_score": "18"
+    },
+    {
+        "date": "2021-01-03T21:25Z",
+        "away_team": "Seattle Seahawks",
+        "home_team": "San Francisco 49ers",
+        "away_score": "26",
+        "home_score": "23"
+    },
+    {
+        "date": "2021-01-03T21:25Z",
+        "away_team": "New Orleans Saints",
+        "home_team": "Carolina Panthers",
+        "away_score": "33",
+        "home_score": "7"
+    },
+    {
+        "date": "2021-01-03T21:25Z",
+        "away_team": "Tennessee Titans",
+        "home_team": "Houston Texans",
+        "away_score": "41",
+        "home_score": "38"
+    },
+    {
+        "date": "2021-01-04T01:20Z",
+        "away_team": "Washington",
+        "home_team": "Philadelphia Eagles",
+        "away_score": "20",
+        "home_score": "14"
+    },
+    {
+        "date": "2021-01-09T18:05Z",
+        "away_team": "Indianapolis Colts",
+        "home_team": "Buffalo Bills",
+        "away_score": "24",
+        "home_score": "27"
+    },
+    {
+        "date": "2021-01-09T21:40Z",
+        "away_team": "Los Angeles Rams",
+        "home_team": "Seattle Seahawks",
+        "away_score": "30",
+        "home_score": "20"
+    },
+    {
+        "date": "2021-01-10T01:15Z",
+        "away_team": "Tampa Bay Buccaneers",
+        "home_team": "Washington",
+        "away_score": "31",
+        "home_score": "23"
+    },
+    {
+        "date": "2021-01-10T18:05Z",
+        "away_team": "Baltimore Ravens",
+        "home_team": "Tennessee Titans",
+        "away_score": "20",
+        "home_score": "13"
+    },
+    {
+        "date": "2021-01-10T21:40Z",
+        "away_team": "Chicago Bears",
+        "home_team": "New Orleans Saints",
+        "away_score": "9",
+        "home_score": "21"
+    },
+    {
+        "date": "2021-01-11T01:15Z",
+        "away_team": "Cleveland Browns",
+        "home_team": "Pittsburgh Steelers",
+        "away_score": "48",
+        "home_score": "37"
+    },
+    {
+        "date": "2021-01-16T21:35Z",
+        "away_team": "Los Angeles Rams",
+        "home_team": "Green Bay Packers",
+        "away_score": "18",
+        "home_score": "32"
+    },
+    {
+        "date": "2021-01-17T01:15Z",
+        "away_team": "Baltimore Ravens",
+        "home_team": "Buffalo Bills",
+        "away_score": "3",
+        "home_score": "17"
+    },
+    {
+        "date": "2021-01-17T20:05Z",
+        "away_team": "Cleveland Browns",
+        "home_team": "Kansas City Chiefs",
+        "away_score": "17",
+        "home_score": "22"
+    },
+    {
+        "date": "2021-01-17T23:40Z",
+        "away_team": "Tampa Bay Buccaneers",
+        "home_team": "New Orleans Saints",
+        "away_score": "30",
+        "home_score": "20"
+    },
+    {
+        "date": "2021-01-24T20:05Z",
+        "away_team": "Tampa Bay Buccaneers",
+        "home_team": "Green Bay Packers",
+        "away_score": "31",
+        "home_score": "26"
+    },
+    {
+        "date": "2021-01-24T23:40Z",
+        "away_team": "Buffalo Bills",
+        "home_team": "Kansas City Chiefs",
+        "away_score": "24",
+        "home_score": "38"
+    },
+    {
+        "date": "2021-02-07T23:30Z",
+        "away_team": "Kansas City Chiefs",
+        "home_team": "Tampa Bay Buccaneers",
+        "away_score": "9",
+        "home_score": "31"
+    },
+    {
+        "date": "2021-08-06T00:00Z",
+        "away_team": "Dallas Cowboys",
+        "home_team": "Pittsburgh Steelers",
+        "away_score": "3",
+        "home_score": "16"
+    },
+    {
+        "date": "2021-08-12T23:30Z",
+        "away_team": "Washington",
+        "home_team": "New England Patriots",
+        "away_score": "13",
+        "home_score": "22"
+    },
+    {
+        "date": "2021-08-12T23:30Z",
+        "away_team": "Pittsburgh Steelers",
+        "home_team": "Philadelphia Eagles",
+        "away_score": "24",
+        "home_score": "16"
+    },
+    {
+        "date": "2021-08-13T23:00Z",
+        "away_team": "Tennessee Titans",
+        "home_team": "Atlanta Falcons",
+        "away_score": "23",
+        "home_score": "3"
+    },
+    {
+        "date": "2021-08-13T23:00Z",
+        "away_team": "Buffalo Bills",
+        "home_team": "Detroit Lions",
+        "away_score": "16",
+        "home_score": "15"
+    },
+    {
+        "date": "2021-08-14T02:00Z",
+        "away_team": "Dallas Cowboys",
+        "home_team": "Arizona Cardinals",
+        "away_score": "16",
+        "home_score": "19"
+    },
+    {
+        "date": "2021-08-14T17:00Z",
+        "away_team": "Miami Dolphins",
+        "home_team": "Chicago Bears",
+        "away_score": "13",
+        "home_score": "20"
+    },
+    {
+        "date": "2021-08-14T20:00Z",
+        "away_team": "Denver Broncos",
+        "home_team": "Minnesota Vikings",
+        "away_score": "33",
+        "home_score": "6"
+    },
+    {
+        "date": "2021-08-14T23:00Z",
+        "away_team": "Cleveland Browns",
+        "home_team": "Jacksonville Jaguars",
+        "away_score": "23",
+        "home_score": "13"
+    },
+    {
+        "date": "2021-08-14T23:00Z",
+        "away_team": "New Orleans Saints",
+        "home_team": "Baltimore Ravens",
+        "away_score": "14",
+        "home_score": "17"
+    },
+    {
+        "date": "2021-08-14T23:30Z",
+        "away_team": "New York Jets",
+        "home_team": "New York Giants",
+        "away_score": "12",
+        "home_score": "7"
+    },
+    {
+        "date": "2021-08-14T23:30Z",
+        "away_team": "Cincinnati Bengals",
+        "home_team": "Tampa Bay Buccaneers",
+        "away_score": "19",
+        "home_score": "14"
+    },
+    {
+        "date": "2021-08-15T00:00Z",
+        "away_team": "Houston Texans",
+        "home_team": "Green Bay Packers",
+        "away_score": "26",
+        "home_score": "7"
+    },
+    {
+        "date": "2021-08-15T00:30Z",
+        "away_team": "Kansas City Chiefs",
+        "home_team": "San Francisco 49ers",
+        "away_score": "19",
+        "home_score": "16"
+    },
+    {
+        "date": "2021-08-15T01:00Z",
+        "away_team": "Seattle Seahawks",
+        "home_team": "Las Vegas Raiders",
+        "away_score": "7",
+        "home_score": "20"
+    },
+    {
+        "date": "2021-08-15T02:00Z",
+        "away_team": "Los Angeles Chargers",
+        "home_team": "Los Angeles Rams",
+        "away_score": "13",
+        "home_score": "6"
+    },
+    {
+        "date": "2021-08-15T17:00Z",
+        "away_team": "Carolina Panthers",
+        "home_team": "Indianapolis Colts",
+        "away_score": "18",
+        "home_score": "21"
+    },
+    {
+        "date": "2021-08-19T23:30Z",
+        "away_team": "New England Patriots",
+        "home_team": "Philadelphia Eagles",
+        "away_score": "35",
+        "home_score": "0"
+    },
+    {
+        "date": "2021-08-21T00:00Z",
+        "away_team": "Kansas City Chiefs",
+        "home_team": "Arizona Cardinals",
+        "away_score": "17",
+        "home_score": "10"
+    },
+    {
+        "date": "2021-08-21T00:00Z",
+        "away_team": "Cincinnati Bengals",
+        "home_team": "Washington",
+        "away_score": "13",
+        "home_score": "17"
+    },
+    {
+        "date": "2021-08-21T17:00Z",
+        "away_team": "Buffalo Bills",
+        "home_team": "Chicago Bears",
+        "away_score": "41",
+        "home_score": "15"
+    },
+    {
+        "date": "2021-08-21T20:25Z",
+        "away_team": "New York Jets",
+        "home_team": "Green Bay Packers",
+        "away_score": "23",
+        "home_score": "14"
+    },
+    {
+        "date": "2021-08-21T23:00Z",
+        "away_team": "Atlanta Falcons",
+        "home_team": "Miami Dolphins",
+        "away_score": "17",
+        "home_score": "37"
+    },
+    {
+        "date": "2021-08-21T23:00Z",
+        "away_team": "Baltimore Ravens",
+        "home_team": "Carolina Panthers",
+        "away_score": "20",
+        "home_score": "3"
+    },
+    {
+        "date": "2021-08-21T23:30Z",
+        "away_team": "Detroit Lions",
+        "home_team": "Pittsburgh Steelers",
+        "away_score": "20",
+        "home_score": "26"
+    },
+    {
+        "date": "2021-08-21T23:30Z",
+        "away_team": "Tennessee Titans",
+        "home_team": "Tampa Bay Buccaneers",
+        "away_score": "34",
+        "home_score": "3"
+    },
+    {
+        "date": "2021-08-22T00:00Z",
+        "away_team": "Houston Texans",
+        "home_team": "Dallas Cowboys",
+        "away_score": "20",
+        "home_score": "14"
+    },
+    {
+        "date": "2021-08-22T00:00Z",
+        "away_team": "Indianapolis Colts",
+        "home_team": "Minnesota Vikings",
+        "away_score": "12",
+        "home_score": "10"
+    },
+    {
+        "date": "2021-08-22T02:00Z",
+        "away_team": "Las Vegas Raiders",
+        "home_team": "Los Angeles Rams",
+        "away_score": "17",
+        "home_score": "16"
+    },
+    {
+        "date": "2021-08-22T02:00Z",
+        "away_team": "Denver Broncos",
+        "home_team": "Seattle Seahawks",
+        "away_score": "30",
+        "home_score": "3"
+    },
+    {
+        "date": "2021-08-22T17:00Z",
+        "away_team": "New York Giants",
+        "home_team": "Cleveland Browns",
+        "away_score": "13",
+        "home_score": "17"
+    },
+    {
+        "date": "2021-08-22T23:30Z",
+        "away_team": "San Francisco 49ers",
+        "home_team": "Los Angeles Chargers",
+        "away_score": "15",
+        "home_score": "10"
+    },
+    {
+        "date": "2021-08-24T00:00Z",
+        "away_team": "Jacksonville Jaguars",
+        "home_team": "New Orleans Saints",
+        "away_score": "21",
+        "home_score": "23"
+    },
+    {
+        "date": "2021-08-27T23:00Z",
+        "away_team": "Indianapolis Colts",
+        "home_team": "Detroit Lions",
+        "away_score": "27",
+        "home_score": "17"
+    },
+    {
+        "date": "2021-08-27T23:30Z",
+        "away_team": "Philadelphia Eagles",
+        "home_team": "New York Jets",
+        "away_score": "31",
+        "home_score": "31"
+    },
+    {
+        "date": "2021-08-27T23:30Z",
+        "away_team": "Pittsburgh Steelers",
+        "home_team": "Carolina Panthers",
+        "away_score": "9",
+        "home_score": "34"
+    },
+    {
+        "date": "2021-08-28T00:00Z",
+        "away_team": "Minnesota Vikings",
+        "home_team": "Kansas City Chiefs",
+        "away_score": "25",
+        "home_score": "28"
+    },
+    {
+        "date": "2021-08-28T17:00Z",
+        "away_team": "Green Bay Packers",
+        "home_team": "Buffalo Bills",
+        "away_score": "0",
+        "home_score": "19"
+    },
+    {
+        "date": "2021-08-28T22:00Z",
+        "away_team": "Baltimore Ravens",
+        "home_team": "Washington",
+        "away_score": "37",
+        "home_score": "3"
+    },
+    {
+        "date": "2021-08-28T23:00Z",
+        "away_team": "Chicago Bears",
+        "home_team": "Tennessee Titans",
+        "away_score": "27",
+        "home_score": "24"
+    },
+    {
+        "date": "2021-08-29T00:00Z",
+        "away_team": "Tampa Bay Buccaneers",
+        "home_team": "Houston Texans",
+        "away_score": "23",
+        "home_score": "16"
+    },
+    {
+        "date": "2021-08-29T01:05Z",
+        "away_team": "Los Angeles Rams",
+        "home_team": "Denver Broncos",
+        "away_score": "12",
+        "home_score": "17"
+    },
+    {
+        "date": "2021-08-29T02:00Z",
+        "away_team": "Los Angeles Chargers",
+        "home_team": "Seattle Seahawks",
+        "away_score": "0",
+        "home_score": "27"
+    },
+    {
+        "date": "2021-08-29T17:00Z",
+        "away_team": "Jacksonville Jaguars",
+        "home_team": "Dallas Cowboys",
+        "away_score": "34",
+        "home_score": "14"
+    },
+    {
+        "date": "2021-08-29T20:00Z",
+        "away_team": "Miami Dolphins",
+        "home_team": "Cincinnati Bengals",
+        "away_score": "29",
+        "home_score": "26"
+    },
+    {
+        "date": "2021-08-29T20:00Z",
+        "away_team": "Las Vegas Raiders",
+        "home_team": "San Francisco 49ers",
+        "away_score": "10",
+        "home_score": "34"
+    },
+    {
+        "date": "2021-08-29T22:00Z",
+        "away_team": "New England Patriots",
+        "home_team": "New York Giants",
+        "away_score": "22",
+        "home_score": "20"
+    },
+    {
+        "date": "2021-08-30T00:00Z",
+        "away_team": "Cleveland Browns",
+        "home_team": "Atlanta Falcons",
+        "away_score": "19",
+        "home_score": "10"
+    },
+    {
+        "date": "2021-09-10T00:20Z",
+        "away_team": "Dallas Cowboys",
+        "home_team": "Tampa Bay Buccaneers",
+        "away_score": "29",
+        "home_score": "31"
+    },
+    {
+        "date": "2021-09-12T17:00Z",
+        "away_team": "Philadelphia Eagles",
+        "home_team": "Atlanta Falcons",
+        "away_score": "32",
+        "home_score": "6"
+    },
+    {
+        "date": "2021-09-12T17:00Z",
+        "away_team": "Pittsburgh Steelers",
+        "home_team": "Buffalo Bills",
+        "away_score": "23",
+        "home_score": "16"
+    },
+    {
+        "date": "2021-09-12T17:00Z",
+        "away_team": "Minnesota Vikings",
+        "home_team": "Cincinnati Bengals",
+        "away_score": "24",
+        "home_score": "27"
+    },
+    {
+        "date": "2021-09-12T17:00Z",
+        "away_team": "San Francisco 49ers",
+        "home_team": "Detroit Lions",
+        "away_score": "41",
+        "home_score": "33"
+    },
+    {
+        "date": "2021-09-12T17:00Z",
+        "away_team": "Arizona Cardinals",
+        "home_team": "Tennessee Titans",
+        "away_score": "38",
+        "home_score": "13"
+    },
+    {
+        "date": "2021-09-12T17:00Z",
+        "away_team": "Seattle Seahawks",
+        "home_team": "Indianapolis Colts",
+        "away_score": "28",
+        "home_score": "16"
+    },
+    {
+        "date": "2021-09-12T17:00Z",
+        "away_team": "Los Angeles Chargers",
+        "home_team": "Washington",
+        "away_score": "20",
+        "home_score": "16"
+    },
+    {
+        "date": "2021-09-12T17:00Z",
+        "away_team": "New York Jets",
+        "home_team": "Carolina Panthers",
+        "away_score": "14",
+        "home_score": "19"
+    },
+    {
+        "date": "2021-09-12T17:00Z",
+        "away_team": "Jacksonville Jaguars",
+        "home_team": "Houston Texans",
+        "away_score": "21",
+        "home_score": "37"
+    },
+    {
+        "date": "2021-09-12T20:25Z",
+        "away_team": "Cleveland Browns",
+        "home_team": "Kansas City Chiefs",
+        "away_score": "29",
+        "home_score": "33"
+    },
+    {
+        "date": "2021-09-12T20:25Z",
+        "away_team": "Miami Dolphins",
+        "home_team": "New England Patriots",
+        "away_score": "17",
+        "home_score": "16"
+    },
+    {
+        "date": "2021-09-12T20:25Z",
+        "away_team": "Green Bay Packers",
+        "home_team": "New Orleans Saints",
+        "away_score": "3",
+        "home_score": "38"
+    },
+    {
+        "date": "2021-09-12T20:25Z",
+        "away_team": "Denver Broncos",
+        "home_team": "New York Giants",
+        "away_score": "27",
+        "home_score": "13"
+    },
+    {
+        "date": "2021-09-13T00:20Z",
+        "away_team": "Chicago Bears",
+        "home_team": "Los Angeles Rams",
+        "away_score": "14",
+        "home_score": "34"
+    },
+    {
+        "date": "2021-09-14T00:15Z",
+        "away_team": "Baltimore Ravens",
+        "home_team": "Las Vegas Raiders",
+        "away_score": "27",
+        "home_score": "33"
+    },
+    {
+        "date": "2021-09-17T00:20Z",
+        "away_team": "New York Giants",
+        "home_team": "Washington",
+        "away_score": "29",
+        "home_score": "30"
+    },
+    {
+        "date": "2021-09-19T17:00Z",
+        "away_team": "Cincinnati Bengals",
+        "home_team": "Chicago Bears",
+        "away_score": "17",
+        "home_score": "20"
+    },
+    {
+        "date": "2021-09-19T17:00Z",
+        "away_team": "Houston Texans",
+        "home_team": "Cleveland Browns",
+        "away_score": "21",
+        "home_score": "31"
+    },
+    {
+        "date": "2021-09-19T17:00Z",
+        "away_team": "Los Angeles Rams",
+        "home_team": "Indianapolis Colts",
+        "away_score": "27",
+        "home_score": "24"
+    },
+    {
+        "date": "2021-09-19T17:00Z",
+        "away_team": "Buffalo Bills",
+        "home_team": "Miami Dolphins",
+        "away_score": "35",
+        "home_score": "0"
+    },
+    {
+        "date": "2021-09-19T17:00Z",
+        "away_team": "New England Patriots",
+        "home_team": "New York Jets",
+        "away_score": "25",
+        "home_score": "6"
+    },
+    {
+        "date": "2021-09-19T17:00Z",
+        "away_team": "San Francisco 49ers",
+        "home_team": "Philadelphia Eagles",
+        "away_score": "17",
+        "home_score": "11"
+    },
+    {
+        "date": "2021-09-19T17:00Z",
+        "away_team": "Las Vegas Raiders",
+        "home_team": "Pittsburgh Steelers",
+        "away_score": "26",
+        "home_score": "17"
+    },
+    {
+        "date": "2021-09-19T17:00Z",
+        "away_team": "New Orleans Saints",
+        "home_team": "Carolina Panthers",
+        "away_score": "7",
+        "home_score": "26"
+    },
+    {
+        "date": "2021-09-19T17:00Z",
+        "away_team": "Denver Broncos",
+        "home_team": "Jacksonville Jaguars",
+        "away_score": "23",
+        "home_score": "13"
+    },
+    {
+        "date": "2021-09-19T20:05Z",
+        "away_team": "Minnesota Vikings",
+        "home_team": "Arizona Cardinals",
+        "away_score": "33",
+        "home_score": "34"
+    },
+    {
+        "date": "2021-09-19T20:05Z",
+        "away_team": "Atlanta Falcons",
+        "home_team": "Tampa Bay Buccaneers",
+        "away_score": "25",
+        "home_score": "48"
+    },
+    {
+        "date": "2021-09-19T20:25Z",
+        "away_team": "Dallas Cowboys",
+        "home_team": "Los Angeles Chargers",
+        "away_score": "20",
+        "home_score": "17"
+    },
+    {
+        "date": "2021-09-19T20:25Z",
+        "away_team": "Tennessee Titans",
+        "home_team": "Seattle Seahawks",
+        "away_score": "33",
+        "home_score": "30"
+    },
+    {
+        "date": "2021-09-20T00:20Z",
+        "away_team": "Kansas City Chiefs",
+        "home_team": "Baltimore Ravens",
+        "away_score": "35",
+        "home_score": "36"
+    },
+    {
+        "date": "2021-09-21T00:15Z",
+        "away_team": "Detroit Lions",
+        "home_team": "Green Bay Packers",
+        "away_score": "17",
+        "home_score": "35"
+    },
+    {
+        "date": "2021-09-24T00:20Z",
+        "away_team": "Carolina Panthers",
+        "home_team": "Houston Texans",
+        "away_score": "24",
+        "home_score": "9"
+    },
+    {
+        "date": "2021-09-26T17:00Z",
+        "away_team": "Washington",
+        "home_team": "Buffalo Bills",
+        "away_score": "21",
+        "home_score": "43"
+    },
+    {
+        "date": "2021-09-26T17:00Z",
+        "away_team": "Chicago Bears",
+        "home_team": "Cleveland Browns",
+        "away_score": "6",
+        "home_score": "26"
+    },
+    {
+        "date": "2021-09-26T17:00Z",
+        "away_team": "Baltimore Ravens",
+        "home_team": "Detroit Lions",
+        "away_score": "19",
+        "home_score": "17"
+    },
+    {
+        "date": "2021-09-26T17:00Z",
+        "away_team": "Indianapolis Colts",
+        "home_team": "Tennessee Titans",
+        "away_score": "16",
+        "home_score": "25"
+    },
+    {
+        "date": "2021-09-26T17:00Z",
+        "away_team": "Los Angeles Chargers",
+        "home_team": "Kansas City Chiefs",
+        "away_score": "30",
+        "home_score": "24"
+    },
+    {
+        "date": "2021-09-26T17:00Z",
+        "away_team": "New Orleans Saints",
+        "home_team": "New England Patriots",
+        "away_score": "28",
+        "home_score": "13"
+    },
+    {
+        "date": "2021-09-26T17:00Z",
+        "away_team": "Atlanta Falcons",
+        "home_team": "New York Giants",
+        "away_score": "17",
+        "home_score": "14"
+    },
+    {
+        "date": "2021-09-26T17:00Z",
+        "away_team": "Cincinnati Bengals",
+        "home_team": "Pittsburgh Steelers",
+        "away_score": "24",
+        "home_score": "10"
+    },
+    {
+        "date": "2021-09-26T17:00Z",
+        "away_team": "Arizona Cardinals",
+        "home_team": "Jacksonville Jaguars",
+        "away_score": "31",
+        "home_score": "19"
+    },
+    {
+        "date": "2021-09-26T20:05Z",
+        "away_team": "New York Jets",
+        "home_team": "Denver Broncos",
+        "away_score": "0",
+        "home_score": "26"
+    },
+    {
+        "date": "2021-09-26T20:05Z",
+        "away_team": "Miami Dolphins",
+        "home_team": "Las Vegas Raiders",
+        "away_score": "28",
+        "home_score": "31"
+    },
+    {
+        "date": "2021-09-26T20:25Z",
+        "away_team": "Tampa Bay Buccaneers",
+        "home_team": "Los Angeles Rams",
+        "away_score": "24",
+        "home_score": "34"
+    },
+    {
+        "date": "2021-09-26T20:25Z",
+        "away_team": "Seattle Seahawks",
+        "home_team": "Minnesota Vikings",
+        "away_score": "17",
+        "home_score": "30"
+    },
+    {
+        "date": "2021-09-27T00:20Z",
+        "away_team": "Green Bay Packers",
+        "home_team": "San Francisco 49ers",
+        "away_score": "30",
+        "home_score": "28"
+    },
+    {
+        "date": "2021-09-28T00:15Z",
+        "away_team": "Philadelphia Eagles",
+        "home_team": "Dallas Cowboys",
+        "away_score": "21",
+        "home_score": "41"
+    },
+    {
+        "date": "2021-10-01T00:20Z",
+        "away_team": "Jacksonville Jaguars",
+        "home_team": "Cincinnati Bengals",
+        "away_score": "21",
+        "home_score": "24"
+    },
+    {
+        "date": "2021-10-03T17:00Z",
+        "away_team": "Washington",
+        "home_team": "Atlanta Falcons",
+        "away_score": "34",
+        "home_score": "30"
+    },
+    {
+        "date": "2021-10-03T17:00Z",
+        "away_team": "Houston Texans",
+        "home_team": "Buffalo Bills",
+        "away_score": "0",
+        "home_score": "40"
+    },
+    {
+        "date": "2021-10-03T17:00Z",
+        "away_team": "Detroit Lions",
+        "home_team": "Chicago Bears",
+        "away_score": "14",
+        "home_score": "24"
+    },
+    {
+        "date": "2021-10-03T17:00Z",
+        "away_team": "Carolina Panthers",
+        "home_team": "Dallas Cowboys",
+        "away_score": "28",
+        "home_score": "36"
+    },
+    {
+        "date": "2021-10-03T17:00Z",
+        "away_team": "Indianapolis Colts",
+        "home_team": "Miami Dolphins",
+        "away_score": "27",
+        "home_score": "17"
+    },
+    {
+        "date": "2021-10-03T17:00Z",
+        "away_team": "Cleveland Browns",
+        "home_team": "Minnesota Vikings",
+        "away_score": "14",
+        "home_score": "7"
+    },
+    {
+        "date": "2021-10-03T17:00Z",
+        "away_team": "New York Giants",
+        "home_team": "New Orleans Saints",
+        "away_score": "27",
+        "home_score": "21"
+    },
+    {
+        "date": "2021-10-03T17:00Z",
+        "away_team": "Tennessee Titans",
+        "home_team": "New York Jets",
+        "away_score": "24",
+        "home_score": "27"
+    },
+    {
+        "date": "2021-10-03T17:00Z",
+        "away_team": "Kansas City Chiefs",
+        "home_team": "Philadelphia Eagles",
+        "away_score": "42",
+        "home_score": "30"
+    },
+    {
+        "date": "2021-10-03T20:05Z",
+        "away_team": "Arizona Cardinals",
+        "home_team": "Los Angeles Rams",
+        "away_score": "37",
+        "home_score": "20"
+    },
+    {
+        "date": "2021-10-03T20:05Z",
+        "away_team": "Seattle Seahawks",
+        "home_team": "San Francisco 49ers",
+        "away_score": "28",
+        "home_score": "21"
+    },
+    {
+        "date": "2021-10-03T20:25Z",
+        "away_team": "Baltimore Ravens",
+        "home_team": "Denver Broncos",
+        "away_score": "23",
+        "home_score": "7"
+    },
+    {
+        "date": "2021-10-03T20:25Z",
+        "away_team": "Pittsburgh Steelers",
+        "home_team": "Green Bay Packers",
+        "away_score": "17",
+        "home_score": "27"
+    },
+    {
+        "date": "2021-10-04T00:20Z",
+        "away_team": "Tampa Bay Buccaneers",
+        "home_team": "New England Patriots",
+        "away_score": "19",
+        "home_score": "17"
+    },
+    {
+        "date": "2021-10-05T00:50Z",
+        "away_team": "Las Vegas Raiders",
+        "home_team": "Los Angeles Chargers",
+        "away_score": "14",
+        "home_score": "28"
+    },
+    {
+        "date": "2021-10-08T00:20Z",
+        "away_team": "Los Angeles Rams",
+        "home_team": "Seattle Seahawks",
+        "away_score": "26",
+        "home_score": "17"
+    },
+    {
+        "date": "2021-10-10T13:30Z",
+        "away_team": "New York Jets",
+        "home_team": "Atlanta Falcons",
+        "away_score": "20",
+        "home_score": "27"
+    },
+    {
+        "date": "2021-10-10T17:00Z",
+        "away_team": "Green Bay Packers",
+        "home_team": "Cincinnati Bengals",
+        "away_score": "25",
+        "home_score": "22"
+    },
+    {
+        "date": "2021-10-10T17:00Z",
+        "away_team": "Detroit Lions",
+        "home_team": "Minnesota Vikings",
+        "away_score": "17",
+        "home_score": "19"
+    },
+    {
+        "date": "2021-10-10T17:00Z",
+        "away_team": "Denver Broncos",
+        "home_team": "Pittsburgh Steelers",
+        "away_score": "19",
+        "home_score": "27"
+    },
+    {
+        "date": "2021-10-10T17:00Z",
+        "away_team": "Miami Dolphins",
+        "home_team": "Tampa Bay Buccaneers",
+        "away_score": "17",
+        "home_score": "45"
+    },
+    {
+        "date": "2021-10-10T17:00Z",
+        "away_team": "New Orleans Saints",
+        "home_team": "Washington",
+        "away_score": "33",
+        "home_score": "22"
+    },
+    {
+        "date": "2021-10-10T17:00Z",
+        "away_team": "Philadelphia Eagles",
+        "home_team": "Carolina Panthers",
+        "away_score": "21",
+        "home_score": "18"
+    },
+    {
+        "date": "2021-10-10T17:00Z",
+        "away_team": "Tennessee Titans",
+        "home_team": "Jacksonville Jaguars",
+        "away_score": "37",
+        "home_score": "19"
+    },
+    {
+        "date": "2021-10-10T17:00Z",
+        "away_team": "New England Patriots",
+        "home_team": "Houston Texans",
+        "away_score": "25",
+        "home_score": "22"
+    },
+    {
+        "date": "2021-10-10T20:05Z",
+        "away_team": "Chicago Bears",
+        "home_team": "Las Vegas Raiders",
+        "away_score": "20",
+        "home_score": "9"
+    },
+    {
+        "date": "2021-10-10T20:05Z",
+        "away_team": "Cleveland Browns",
+        "home_team": "Los Angeles Chargers",
+        "away_score": "42",
+        "home_score": "47"
+    },
+    {
+        "date": "2021-10-10T20:25Z",
+        "away_team": "New York Giants",
+        "home_team": "Dallas Cowboys",
+        "away_score": "20",
+        "home_score": "44"
+    },
+    {
+        "date": "2021-10-10T20:25Z",
+        "away_team": "San Francisco 49ers",
+        "home_team": "Arizona Cardinals",
+        "away_score": "10",
+        "home_score": "17"
+    },
+    {
+        "date": "2021-10-11T00:20Z",
+        "away_team": "Buffalo Bills",
+        "home_team": "Kansas City Chiefs",
+        "away_score": "38",
+        "home_score": "20"
+    },
+    {
+        "date": "2021-10-12T00:15Z",
+        "away_team": "Indianapolis Colts",
+        "home_team": "Baltimore Ravens",
+        "away_score": "25",
+        "home_score": "31"
+    },
+    {
+        "date": "2021-10-15T00:20Z",
+        "away_team": "Tampa Bay Buccaneers",
+        "home_team": "Philadelphia Eagles",
+        "away_score": "28",
+        "home_score": "22"
+    },
+    {
+        "date": "2021-10-17T13:30Z",
+        "away_team": "Miami Dolphins",
+        "home_team": "Jacksonville Jaguars",
+        "away_score": "20",
+        "home_score": "23"
+    },
+    {
+        "date": "2021-10-17T17:00Z",
+        "away_team": "Green Bay Packers",
+        "home_team": "Chicago Bears",
+        "away_score": "24",
+        "home_score": "14"
+    },
+    {
+        "date": "2021-10-17T17:00Z",
+        "away_team": "Cincinnati Bengals",
+        "home_team": "Detroit Lions",
+        "away_score": "34",
+        "home_score": "11"
+    },
+    {
+        "date": "2021-10-17T17:00Z",
+        "away_team": "Houston Texans",
+        "home_team": "Indianapolis Colts",
+        "away_score": "3",
+        "home_score": "31"
+    },
+    {
+        "date": "2021-10-17T17:00Z",
+        "away_team": "Los Angeles Rams",
+        "home_team": "New York Giants",
+        "away_score": "38",
+        "home_score": "11"
+    },
+    {
+        "date": "2021-10-17T17:00Z",
+        "away_team": "Kansas City Chiefs",
+        "home_team": "Washington",
+        "away_score": "31",
+        "home_score": "13"
+    },
+    {
+        "date": "2021-10-17T17:00Z",
+        "away_team": "Minnesota Vikings",
+        "home_team": "Carolina Panthers",
+        "away_score": "34",
+        "home_score": "28"
+    },
+    {
+        "date": "2021-10-17T17:00Z",
+        "away_team": "Los Angeles Chargers",
+        "home_team": "Baltimore Ravens",
+        "away_score": "6",
+        "home_score": "34"
+    },
+    {
+        "date": "2021-10-17T20:05Z",
+        "away_team": "Arizona Cardinals",
+        "home_team": "Cleveland Browns",
+        "away_score": "37",
+        "home_score": "14"
+    },
+    {
+        "date": "2021-10-17T20:25Z",
+        "away_team": "Las Vegas Raiders",
+        "home_team": "Denver Broncos",
+        "away_score": "34",
+        "home_score": "24"
+    },
+    {
+        "date": "2021-10-17T20:25Z",
+        "away_team": "Dallas Cowboys",
+        "home_team": "New England Patriots",
+        "away_score": "35",
+        "home_score": "29"
+    },
+    {
+        "date": "2021-10-18T00:20Z",
+        "away_team": "Seattle Seahawks",
+        "home_team": "Pittsburgh Steelers",
+        "away_score": "20",
+        "home_score": "23"
+    },
+    {
+        "date": "2021-10-19T00:15Z",
+        "away_team": "Buffalo Bills",
+        "home_team": "Tennessee Titans",
+        "away_score": "31",
+        "home_score": "34"
+    },
+    {
+        "date": "2021-10-22T00:20Z",
+        "away_team": "Denver Broncos",
+        "home_team": "Cleveland Browns",
+        "away_score": "14",
+        "home_score": "17"
+    },
+    {
+        "date": "2021-10-24T17:00Z",
+        "away_team": "Washington",
+        "home_team": "Green Bay Packers",
+        "away_score": "10",
+        "home_score": "24"
+    },
+    {
+        "date": "2021-10-24T17:00Z",
+        "away_team": "Kansas City Chiefs",
+        "home_team": "Tennessee Titans",
+        "away_score": "3",
+        "home_score": "27"
+    },
+    {
+        "date": "2021-10-24T17:00Z",
+        "away_team": "Atlanta Falcons",
+        "home_team": "Miami Dolphins",
+        "away_score": "30",
+        "home_score": "28"
+    },
+    {
+        "date": "2021-10-24T17:00Z",
+        "away_team": "New York Jets",
+        "home_team": "New England Patriots",
+        "away_score": "13",
+        "home_score": "54"
+    },
+    {
+        "date": "2021-10-24T17:00Z",
+        "away_team": "Carolina Panthers",
+        "home_team": "New York Giants",
+        "away_score": "3",
+        "home_score": "25"
+    },
+    {
+        "date": "2021-10-24T17:00Z",
+        "away_team": "Cincinnati Bengals",
+        "home_team": "Baltimore Ravens",
+        "away_score": "41",
+        "home_score": "17"
+    },
+    {
+        "date": "2021-10-24T20:05Z",
+        "away_team": "Philadelphia Eagles",
+        "home_team": "Las Vegas Raiders",
+        "away_score": "22",
+        "home_score": "33"
+    },
+    {
+        "date": "2021-10-24T20:05Z",
+        "away_team": "Detroit Lions",
+        "home_team": "Los Angeles Rams",
+        "away_score": "19",
+        "home_score": "28"
+    },
+    {
+        "date": "2021-10-24T20:25Z",
+        "away_team": "Houston Texans",
+        "home_team": "Arizona Cardinals",
+        "away_score": "5",
+        "home_score": "31"
+    },
+    {
+        "date": "2021-10-24T20:25Z",
+        "away_team": "Chicago Bears",
+        "home_team": "Tampa Bay Buccaneers",
+        "away_score": "3",
+        "home_score": "38"
+    },
+    {
+        "date": "2021-10-25T00:20Z",
+        "away_team": "Indianapolis Colts",
+        "home_team": "San Francisco 49ers",
+        "away_score": "30",
+        "home_score": "18"
+    },
+    {
+        "date": "2021-10-26T00:15Z",
+        "away_team": "New Orleans Saints",
+        "home_team": "Seattle Seahawks",
+        "away_score": "13",
+        "home_score": "10"
+    },
+    {
+        "date": "2021-10-29T00:20Z",
+        "away_team": "Green Bay Packers",
+        "home_team": "Arizona Cardinals",
+        "away_score": "24",
+        "home_score": "21"
+    },
+    {
+        "date": "2021-10-31T17:00Z",
+        "away_team": "Carolina Panthers",
+        "home_team": "Atlanta Falcons",
+        "away_score": "19",
+        "home_score": "13"
+    },
+    {
+        "date": "2021-10-31T17:00Z",
+        "away_team": "Miami Dolphins",
+        "home_team": "Buffalo Bills",
+        "away_score": "11",
+        "home_score": "26"
+    },
+    {
+        "date": "2021-10-31T17:00Z",
+        "away_team": "San Francisco 49ers",
+        "home_team": "Chicago Bears",
+        "away_score": "33",
+        "home_score": "22"
+    },
+    {
+        "date": "2021-10-31T17:00Z",
+        "away_team": "Pittsburgh Steelers",
+        "home_team": "Cleveland Browns",
+        "away_score": "15",
+        "home_score": "10"
+    },
+    {
+        "date": "2021-10-31T17:00Z",
+        "away_team": "Philadelphia Eagles",
+        "home_team": "Detroit Lions",
+        "away_score": "44",
+        "home_score": "6"
+    },
+    {
+        "date": "2021-10-31T17:00Z",
+        "away_team": "Tennessee Titans",
+        "home_team": "Indianapolis Colts",
+        "away_score": "34",
+        "home_score": "31"
+    },
+    {
+        "date": "2021-10-31T17:00Z",
+        "away_team": "Cincinnati Bengals",
+        "home_team": "New York Jets",
+        "away_score": "31",
+        "home_score": "34"
+    },
+    {
+        "date": "2021-10-31T17:00Z",
+        "away_team": "Los Angeles Rams",
+        "home_team": "Houston Texans",
+        "away_score": "38",
+        "home_score": "22"
+    },
+    {
+        "date": "2021-10-31T20:05Z",
+        "away_team": "New England Patriots",
+        "home_team": "Los Angeles Chargers",
+        "away_score": "27",
+        "home_score": "24"
+    },
+    {
+        "date": "2021-10-31T20:05Z",
+        "away_team": "Jacksonville Jaguars",
+        "home_team": "Seattle Seahawks",
+        "away_score": "7",
+        "home_score": "31"
+    },
+    {
+        "date": "2021-10-31T20:25Z",
+        "away_team": "Washington",
+        "home_team": "Denver Broncos",
+        "away_score": "10",
+        "home_score": "17"
+    },
+    {
+        "date": "2021-10-31T20:25Z",
+        "away_team": "Tampa Bay Buccaneers",
+        "home_team": "New Orleans Saints",
+        "away_score": "27",
+        "home_score": "36"
+    },
+    {
+        "date": "2021-11-01T00:20Z",
+        "away_team": "Dallas Cowboys",
+        "home_team": "Minnesota Vikings",
+        "away_score": "20",
+        "home_score": "16"
+    },
+    {
+        "date": "2021-11-02T00:15Z",
+        "away_team": "New York Giants",
+        "home_team": "Kansas City Chiefs",
+        "away_score": "17",
+        "home_score": "20"
+    },
+    {
+        "date": "2021-11-05T00:20Z",
+        "away_team": "New York Jets",
+        "home_team": "Indianapolis Colts",
+        "away_score": "30",
+        "home_score": "45"
+    },
+    {
+        "date": "2021-11-07T18:00Z",
+        "away_team": "Cleveland Browns",
+        "home_team": "Cincinnati Bengals",
+        "away_score": "41",
+        "home_score": "16"
+    },
+    {
+        "date": "2021-11-07T18:00Z",
+        "away_team": "Denver Broncos",
+        "home_team": "Dallas Cowboys",
+        "away_score": "30",
+        "home_score": "16"
+    },
+    {
+        "date": "2021-11-07T18:00Z",
+        "away_team": "Houston Texans",
+        "home_team": "Miami Dolphins",
+        "away_score": "9",
+        "home_score": "17"
+    },
+    {
+        "date": "2021-11-07T18:00Z",
+        "away_team": "Atlanta Falcons",
+        "home_team": "New Orleans Saints",
+        "away_score": "27",
+        "home_score": "25"
+    },
+    {
+        "date": "2021-11-07T18:00Z",
+        "away_team": "Las Vegas Raiders",
+        "home_team": "New York Giants",
+        "away_score": "16",
+        "home_score": "23"
+    },
+    {
+        "date": "2021-11-07T18:00Z",
+        "away_team": "New England Patriots",
+        "home_team": "Carolina Panthers",
+        "away_score": "24",
+        "home_score": "6"
+    },
+    {
+        "date": "2021-11-07T18:00Z",
+        "away_team": "Buffalo Bills",
+        "home_team": "Jacksonville Jaguars",
+        "away_score": "6",
+        "home_score": "9"
+    },
+    {
+        "date": "2021-11-07T18:00Z",
+        "away_team": "Minnesota Vikings",
+        "home_team": "Baltimore Ravens",
+        "away_score": "31",
+        "home_score": "34"
+    },
+    {
+        "date": "2021-11-07T21:05Z",
+        "away_team": "Los Angeles Chargers",
+        "home_team": "Philadelphia Eagles",
+        "away_score": "27",
+        "home_score": "24"
+    },
+    {
+        "date": "2021-11-07T21:25Z",
+        "away_team": "Green Bay Packers",
+        "home_team": "Kansas City Chiefs",
+        "away_score": "7",
+        "home_score": "13"
+    },
+    {
+        "date": "2021-11-07T21:25Z",
+        "away_team": "Arizona Cardinals",
+        "home_team": "San Francisco 49ers",
+        "away_score": "31",
+        "home_score": "17"
+    },
+    {
+        "date": "2021-11-08T01:20Z",
+        "away_team": "Tennessee Titans",
+        "home_team": "Los Angeles Rams",
+        "away_score": "28",
+        "home_score": "16"
+    },
+    {
+        "date": "2021-11-09T01:15Z",
+        "away_team": "Chicago Bears",
+        "home_team": "Pittsburgh Steelers",
+        "away_score": "27",
+        "home_score": "29"
+    },
+    {
+        "date": "2021-11-12T01:20Z",
+        "away_team": "Baltimore Ravens",
+        "home_team": "Miami Dolphins",
+        "away_score": "10",
+        "home_score": "22"
+    },
+    {
+        "date": "2021-11-14T18:00Z",
+        "away_team": "Atlanta Falcons",
+        "home_team": "Dallas Cowboys",
+        "away_score": "3",
+        "home_score": "43"
+    },
+    {
+        "date": "2021-11-14T18:00Z",
+        "away_team": "New Orleans Saints",
+        "home_team": "Tennessee Titans",
+        "away_score": "21",
+        "home_score": "23"
+    },
+    {
+        "date": "2021-11-14T18:00Z",
+        "away_team": "Jacksonville Jaguars",
+        "home_team": "Indianapolis Colts",
+        "away_score": "17",
+        "home_score": "23"
+    },
+    {
+        "date": "2021-11-14T18:00Z",
+        "away_team": "Cleveland Browns",
+        "home_team": "New England Patriots",
+        "away_score": "7",
+        "home_score": "45"
+    },
+    {
+        "date": "2021-11-14T18:00Z",
+        "away_team": "Buffalo Bills",
+        "home_team": "New York Jets",
+        "away_score": "45",
+        "home_score": "17"
+    },
+    {
+        "date": "2021-11-14T18:00Z",
+        "away_team": "Detroit Lions",
+        "home_team": "Pittsburgh Steelers",
+        "away_score": "16",
+        "home_score": "16"
+    },
+    {
+        "date": "2021-11-14T18:00Z",
+        "away_team": "Tampa Bay Buccaneers",
+        "home_team": "Washington",
+        "away_score": "19",
+        "home_score": "29"
+    },
+    {
+        "date": "2021-11-14T21:05Z",
+        "away_team": "Carolina Panthers",
+        "home_team": "Arizona Cardinals",
+        "away_score": "34",
+        "home_score": "10"
+    },
+    {
+        "date": "2021-11-14T21:05Z",
+        "away_team": "Minnesota Vikings",
+        "home_team": "Los Angeles Chargers",
+        "away_score": "27",
+        "home_score": "20"
+    },
+    {
+        "date": "2021-11-14T21:25Z",
+        "away_team": "Philadelphia Eagles",
+        "home_team": "Denver Broncos",
+        "away_score": "30",
+        "home_score": "13"
+    },
+    {
+        "date": "2021-11-14T21:25Z",
+        "away_team": "Seattle Seahawks",
+        "home_team": "Green Bay Packers",
+        "away_score": "0",
+        "home_score": "17"
+    },
+    {
+        "date": "2021-11-15T01:20Z",
+        "away_team": "Kansas City Chiefs",
+        "home_team": "Las Vegas Raiders",
+        "away_score": "41",
+        "home_score": "14"
+    },
+    {
+        "date": "2021-11-16T01:15Z",
+        "away_team": "Los Angeles Rams",
+        "home_team": "San Francisco 49ers",
+        "away_score": "10",
+        "home_score": "31"
+    },
+    {
+        "date": "2021-11-19T01:20Z",
+        "away_team": "New England Patriots",
+        "home_team": "Atlanta Falcons",
+        "away_score": "25",
+        "home_score": "0"
+    },
+    {
+        "date": "2021-11-21T18:00Z",
+        "away_team": "Indianapolis Colts",
+        "home_team": "Buffalo Bills",
+        "away_score": "41",
+        "home_score": "15"
+    },
+    {
+        "date": "2021-11-21T18:00Z",
+        "away_team": "Baltimore Ravens",
+        "home_team": "Chicago Bears",
+        "away_score": "16",
+        "home_score": "13"
+    },
+    {
+        "date": "2021-11-21T18:00Z",
+        "away_team": "Detroit Lions",
+        "home_team": "Cleveland Browns",
+        "away_score": "10",
+        "home_score": "13"
+    },
+    {
+        "date": "2021-11-21T18:00Z",
+        "away_team": "Houston Texans",
+        "home_team": "Tennessee Titans",
+        "away_score": "22",
+        "home_score": "13"
+    },
+    {
+        "date": "2021-11-21T18:00Z",
+        "away_team": "Green Bay Packers",
+        "home_team": "Minnesota Vikings",
+        "away_score": "31",
+        "home_score": "34"
+    },
+    {
+        "date": "2021-11-21T18:00Z",
+        "away_team": "Miami Dolphins",
+        "home_team": "New York Jets",
+        "away_score": "24",
+        "home_score": "17"
+    },
+    {
+        "date": "2021-11-21T18:00Z",
+        "away_team": "New Orleans Saints",
+        "home_team": "Philadelphia Eagles",
+        "away_score": "29",
+        "home_score": "40"
+    },
+    {
+        "date": "2021-11-21T18:00Z",
+        "away_team": "Washington",
+        "home_team": "Carolina Panthers",
+        "away_score": "27",
+        "home_score": "21"
+    },
+    {
+        "date": "2021-11-21T18:00Z",
+        "away_team": "San Francisco 49ers",
+        "home_team": "Jacksonville Jaguars",
+        "away_score": "30",
+        "home_score": "10"
+    },
+    {
+        "date": "2021-11-21T21:05Z",
+        "away_team": "Cincinnati Bengals",
+        "home_team": "Las Vegas Raiders",
+        "away_score": "32",
+        "home_score": "13"
+    },
+    {
+        "date": "2021-11-21T21:25Z",
+        "away_team": "Dallas Cowboys",
+        "home_team": "Kansas City Chiefs",
+        "away_score": "9",
+        "home_score": "19"
+    },
+    {
+        "date": "2021-11-21T21:25Z",
+        "away_team": "Arizona Cardinals",
+        "home_team": "Seattle Seahawks",
+        "away_score": "23",
+        "home_score": "13"
+    },
+    {
+        "date": "2021-11-22T01:20Z",
+        "away_team": "Pittsburgh Steelers",
+        "home_team": "Los Angeles Chargers",
+        "away_score": "37",
+        "home_score": "41"
+    },
+    {
+        "date": "2021-11-23T01:15Z",
+        "away_team": "New York Giants",
+        "home_team": "Tampa Bay Buccaneers",
+        "away_score": "10",
+        "home_score": "30"
+    },
+    {
+        "date": "2021-11-25T17:30Z",
+        "away_team": "Chicago Bears",
+        "home_team": "Detroit Lions",
+        "away_score": "16",
+        "home_score": "14"
+    },
+    {
+        "date": "2021-11-25T21:30Z",
+        "away_team": "Las Vegas Raiders",
+        "home_team": "Dallas Cowboys",
+        "away_score": "36",
+        "home_score": "33"
+    },
+    {
+        "date": "2021-11-26T01:20Z",
+        "away_team": "Buffalo Bills",
+        "home_team": "New Orleans Saints",
+        "away_score": "31",
+        "home_score": "6"
+    },
+    {
+        "date": "2021-11-28T18:00Z",
+        "away_team": "Pittsburgh Steelers",
+        "home_team": "Cincinnati Bengals",
+        "away_score": "10",
+        "home_score": "41"
+    },
+    {
+        "date": "2021-11-28T18:00Z",
+        "away_team": "Tampa Bay Buccaneers",
+        "home_team": "Indianapolis Colts",
+        "away_score": "38",
+        "home_score": "31"
+    },
+    {
+        "date": "2021-11-28T18:00Z",
+        "away_team": "Carolina Panthers",
+        "home_team": "Miami Dolphins",
+        "away_score": "10",
+        "home_score": "33"
+    },
+    {
+        "date": "2021-11-28T18:00Z",
+        "away_team": "Tennessee Titans",
+        "home_team": "New England Patriots",
+        "away_score": "13",
+        "home_score": "36"
+    },
+    {
+        "date": "2021-11-28T18:00Z",
+        "away_team": "Philadelphia Eagles",
+        "home_team": "New York Giants",
+        "away_score": "7",
+        "home_score": "13"
+    },
+    {
+        "date": "2021-11-28T18:00Z",
+        "away_team": "Atlanta Falcons",
+        "home_team": "Jacksonville Jaguars",
+        "away_score": "21",
+        "home_score": "14"
+    },
+    {
+        "date": "2021-11-28T18:00Z",
+        "away_team": "New York Jets",
+        "home_team": "Houston Texans",
+        "away_score": "21",
+        "home_score": "14"
+    },
+    {
+        "date": "2021-11-28T21:05Z",
+        "away_team": "Los Angeles Chargers",
+        "home_team": "Denver Broncos",
+        "away_score": "13",
+        "home_score": "28"
+    },
+    {
+        "date": "2021-11-28T21:25Z",
+        "away_team": "Los Angeles Rams",
+        "home_team": "Green Bay Packers",
+        "away_score": "28",
+        "home_score": "36"
+    },
+    {
+        "date": "2021-11-28T21:25Z",
+        "away_team": "Minnesota Vikings",
+        "home_team": "San Francisco 49ers",
+        "away_score": "26",
+        "home_score": "34"
+    },
+    {
+        "date": "2021-11-29T01:20Z",
+        "away_team": "Cleveland Browns",
+        "home_team": "Baltimore Ravens",
+        "away_score": "10",
+        "home_score": "16"
+    },
+    {
+        "date": "2021-11-30T01:15Z",
+        "away_team": "Seattle Seahawks",
+        "home_team": "Washington",
+        "away_score": "15",
+        "home_score": "17"
+    },
+    {
+        "date": "2021-12-03T01:20Z",
+        "away_team": "Dallas Cowboys",
+        "home_team": "New Orleans Saints",
+        "away_score": "27",
+        "home_score": "17"
+    },
+    {
+        "date": "2021-12-05T18:00Z",
+        "away_team": "Tampa Bay Buccaneers",
+        "home_team": "Atlanta Falcons",
+        "away_score": "30",
+        "home_score": "17"
+    },
+    {
+        "date": "2021-12-05T18:00Z",
+        "away_team": "Arizona Cardinals",
+        "home_team": "Chicago Bears",
+        "away_score": "33",
+        "home_score": "22"
+    },
+    {
+        "date": "2021-12-05T18:00Z",
+        "away_team": "Los Angeles Chargers",
+        "home_team": "Cincinnati Bengals",
+        "away_score": "41",
+        "home_score": "22"
+    },
+    {
+        "date": "2021-12-05T18:00Z",
+        "away_team": "Minnesota Vikings",
+        "home_team": "Detroit Lions",
+        "away_score": "27",
+        "home_score": "29"
+    },
+    {
+        "date": "2021-12-05T18:00Z",
+        "away_team": "New York Giants",
+        "home_team": "Miami Dolphins",
+        "away_score": "9",
+        "home_score": "20"
+    },
+    {
+        "date": "2021-12-05T18:00Z",
+        "away_team": "Philadelphia Eagles",
+        "home_team": "New York Jets",
+        "away_score": "33",
+        "home_score": "18"
+    },
+    {
+        "date": "2021-12-05T18:00Z",
+        "away_team": "Indianapolis Colts",
+        "home_team": "Houston Texans",
+        "away_score": "31",
+        "home_score": "0"
+    },
+    {
+        "date": "2021-12-05T21:05Z",
+        "away_team": "Washington",
+        "home_team": "Las Vegas Raiders",
+        "away_score": "17",
+        "home_score": "15"
+    },
+    {
+        "date": "2021-12-05T21:05Z",
+        "away_team": "Jacksonville Jaguars",
+        "home_team": "Los Angeles Rams",
+        "away_score": "7",
+        "home_score": "37"
+    },
+    {
+        "date": "2021-12-05T21:25Z",
+        "away_team": "Baltimore Ravens",
+        "home_team": "Pittsburgh Steelers",
+        "away_score": "19",
+        "home_score": "20"
+    },
+    {
+        "date": "2021-12-05T21:25Z",
+        "away_team": "San Francisco 49ers",
+        "home_team": "Seattle Seahawks",
+        "away_score": "23",
+        "home_score": "30"
+    },
+    {
+        "date": "2021-12-06T01:20Z",
+        "away_team": "Denver Broncos",
+        "home_team": "Kansas City Chiefs",
+        "away_score": "9",
+        "home_score": "22"
+    },
+    {
+        "date": "2021-12-07T01:15Z",
+        "away_team": "New England Patriots",
+        "home_team": "Buffalo Bills",
+        "away_score": "14",
+        "home_score": "10"
+    },
+    {
+        "date": "2021-12-10T01:20Z",
+        "away_team": "Pittsburgh Steelers",
+        "home_team": "Minnesota Vikings",
+        "away_score": "28",
+        "home_score": "36"
+    },
+    {
+        "date": "2021-12-12T18:00Z",
+        "away_team": "Baltimore Ravens",
+        "home_team": "Cleveland Browns",
+        "away_score": "22",
+        "home_score": "24"
+    },
+    {
+        "date": "2021-12-12T18:00Z",
+        "away_team": "Jacksonville Jaguars",
+        "home_team": "Tennessee Titans",
+        "away_score": "0",
+        "home_score": "20"
+    },
+    {
+        "date": "2021-12-12T18:00Z",
+        "away_team": "Las Vegas Raiders",
+        "home_team": "Kansas City Chiefs",
+        "away_score": "9",
+        "home_score": "48"
+    },
+    {
+        "date": "2021-12-12T18:00Z",
+        "away_team": "New Orleans Saints",
+        "home_team": "New York Jets",
+        "away_score": "30",
+        "home_score": "9"
+    },
+    {
+        "date": "2021-12-12T18:00Z",
+        "away_team": "Dallas Cowboys",
+        "home_team": "Washington",
+        "away_score": "27",
+        "home_score": "20"
+    },
+    {
+        "date": "2021-12-12T18:00Z",
+        "away_team": "Atlanta Falcons",
+        "home_team": "Carolina Panthers",
+        "away_score": "29",
+        "home_score": "21"
+    },
+    {
+        "date": "2021-12-12T18:00Z",
+        "away_team": "Seattle Seahawks",
+        "home_team": "Houston Texans",
+        "away_score": "33",
+        "home_score": "13"
+    },
+    {
+        "date": "2021-12-12T21:05Z",
+        "away_team": "Detroit Lions",
+        "home_team": "Denver Broncos",
+        "away_score": "10",
+        "home_score": "38"
+    },
+    {
+        "date": "2021-12-12T21:05Z",
+        "away_team": "New York Giants",
+        "home_team": "Los Angeles Chargers",
+        "away_score": "21",
+        "home_score": "37"
+    },
+    {
+        "date": "2021-12-12T21:25Z",
+        "away_team": "San Francisco 49ers",
+        "home_team": "Cincinnati Bengals",
+        "away_score": "26",
+        "home_score": "23"
+    },
+    {
+        "date": "2021-12-12T21:25Z",
+        "away_team": "Buffalo Bills",
+        "home_team": "Tampa Bay Buccaneers",
+        "away_score": "27",
+        "home_score": "33"
+    },
+    {
+        "date": "2021-12-13T01:20Z",
+        "away_team": "Chicago Bears",
+        "home_team": "Green Bay Packers",
+        "away_score": "30",
+        "home_score": "45"
+    },
+    {
+        "date": "2021-12-14T01:15Z",
+        "away_team": "Los Angeles Rams",
+        "home_team": "Arizona Cardinals",
+        "away_score": "30",
+        "home_score": "23"
+    },
+    {
+        "date": "2021-12-17T01:20Z",
+        "away_team": "Kansas City Chiefs",
+        "home_team": "Los Angeles Chargers",
+        "away_score": "34",
+        "home_score": "28"
+    },
+    {
+        "date": "2021-12-19T01:15Z",
+        "away_team": "New England Patriots",
+        "home_team": "Indianapolis Colts",
+        "away_score": "17",
+        "home_score": "27"
+    },
+    {
+        "date": "2021-12-19T18:00Z",
+        "away_team": "Carolina Panthers",
+        "home_team": "Buffalo Bills",
+        "away_score": "14",
+        "home_score": "31"
+    },
+    {
+        "date": "2021-12-19T18:00Z",
+        "away_team": "Arizona Cardinals",
+        "home_team": "Detroit Lions",
+        "away_score": "12",
+        "home_score": "30"
+    },
+    {
+        "date": "2021-12-19T18:00Z",
+        "away_team": "New York Jets",
+        "home_team": "Miami Dolphins",
+        "away_score": "24",
+        "home_score": "31"
+    },
+    {
+        "date": "2021-12-19T18:00Z",
+        "away_team": "Dallas Cowboys",
+        "home_team": "New York Giants",
+        "away_score": "21",
+        "home_score": "6"
+    },
+    {
+        "date": "2021-12-19T18:00Z",
+        "away_team": "Tennessee Titans",
+        "home_team": "Pittsburgh Steelers",
+        "away_score": "13",
+        "home_score": "19"
+    },
+    {
+        "date": "2021-12-19T18:00Z",
+        "away_team": "Houston Texans",
+        "home_team": "Jacksonville Jaguars",
+        "away_score": "30",
+        "home_score": "16"
+    },
+    {
+        "date": "2021-12-19T21:05Z",
+        "away_team": "Cincinnati Bengals",
+        "home_team": "Denver Broncos",
+        "away_score": "15",
+        "home_score": "10"
+    },
+    {
+        "date": "2021-12-19T21:05Z",
+        "away_team": "Atlanta Falcons",
+        "home_team": "San Francisco 49ers",
+        "away_score": "13",
+        "home_score": "31"
+    },
+    {
+        "date": "2021-12-19T21:25Z",
+        "away_team": "Green Bay Packers",
+        "home_team": "Baltimore Ravens",
+        "away_score": "31",
+        "home_score": "30"
+    },
+    {
+        "date": "2021-12-20T01:20Z",
+        "away_team": "New Orleans Saints",
+        "home_team": "Tampa Bay Buccaneers",
+        "away_score": "9",
+        "home_score": "0"
+    },
+    {
+        "date": "2021-12-20T22:00Z",
+        "away_team": "Las Vegas Raiders",
+        "home_team": "Cleveland Browns",
+        "away_score": "16",
+        "home_score": "14"
+    },
+    {
+        "date": "2021-12-21T01:15Z",
+        "away_team": "Minnesota Vikings",
+        "home_team": "Chicago Bears",
+        "away_score": "17",
+        "home_score": "9"
+    },
+    {
+        "date": "2021-12-22T00:00Z",
+        "away_team": "Seattle Seahawks",
+        "home_team": "Los Angeles Rams",
+        "away_score": "10",
+        "home_score": "20"
+    },
+    {
+        "date": "2021-12-22T00:00Z",
+        "away_team": "Washington",
+        "home_team": "Philadelphia Eagles",
+        "away_score": "17",
+        "home_score": "27"
+    },
+    {
+        "date": "2021-12-24T01:20Z",
+        "away_team": "San Francisco 49ers",
+        "home_team": "Tennessee Titans",
+        "away_score": "17",
+        "home_score": "20"
+    },
+    {
+        "date": "2021-12-25T21:30Z",
+        "away_team": "Cleveland Browns",
+        "home_team": "Green Bay Packers",
+        "away_score": "22",
+        "home_score": "24"
+    },
+    {
+        "date": "2021-12-26T01:15Z",
+        "away_team": "Indianapolis Colts",
+        "home_team": "Arizona Cardinals",
+        "away_score": "22",
+        "home_score": "16"
+    },
+    {
+        "date": "2021-12-26T18:00Z",
+        "away_team": "Detroit Lions",
+        "home_team": "Atlanta Falcons",
+        "away_score": "16",
+        "home_score": "20"
+    },
+    {
+        "date": "2021-12-26T18:00Z",
+        "away_team": "Baltimore Ravens",
+        "home_team": "Cincinnati Bengals",
+        "away_score": "21",
+        "home_score": "41"
+    },
+    {
+        "date": "2021-12-26T18:00Z",
+        "away_team": "Los Angeles Rams",
+        "home_team": "Minnesota Vikings",
+        "away_score": "30",
+        "home_score": "23"
+    },
+    {
+        "date": "2021-12-26T18:00Z",
+        "away_team": "Buffalo Bills",
+        "home_team": "New England Patriots",
+        "away_score": "33",
+        "home_score": "21"
+    },
+    {
+        "date": "2021-12-26T18:00Z",
+        "away_team": "Jacksonville Jaguars",
+        "home_team": "New York Jets",
+        "away_score": "21",
+        "home_score": "26"
+    },
+    {
+        "date": "2021-12-26T18:00Z",
+        "away_team": "New York Giants",
+        "home_team": "Philadelphia Eagles",
+        "away_score": "10",
+        "home_score": "34"
+    },
+    {
+        "date": "2021-12-26T18:00Z",
+        "away_team": "Tampa Bay Buccaneers",
+        "home_team": "Carolina Panthers",
+        "away_score": "32",
+        "home_score": "6"
+    },
+    {
+        "date": "2021-12-26T18:00Z",
+        "away_team": "Los Angeles Chargers",
+        "home_team": "Houston Texans",
+        "away_score": "29",
+        "home_score": "41"
+    },
+    {
+        "date": "2021-12-26T21:05Z",
+        "away_team": "Chicago Bears",
+        "home_team": "Seattle Seahawks",
+        "away_score": "25",
+        "home_score": "24"
+    },
+    {
+        "date": "2021-12-26T21:25Z",
+        "away_team": "Pittsburgh Steelers",
+        "home_team": "Kansas City Chiefs",
+        "away_score": "10",
+        "home_score": "36"
+    },
+    {
+        "date": "2021-12-26T21:25Z",
+        "away_team": "Denver Broncos",
+        "home_team": "Las Vegas Raiders",
+        "away_score": "13",
+        "home_score": "17"
+    },
+    {
+        "date": "2021-12-27T01:20Z",
+        "away_team": "Washington",
+        "home_team": "Dallas Cowboys",
+        "away_score": "14",
+        "home_score": "56"
+    },
+    {
+        "date": "2021-12-28T01:15Z",
+        "away_team": "Miami Dolphins",
+        "home_team": "New Orleans Saints",
+        "away_score": "20",
+        "home_score": "3"
+    }
+]
